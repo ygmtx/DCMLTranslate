@@ -1,0 +1,55 @@
+{
+  "zh": {
+    "home_our_service": "我们的服务",
+    "our_service_intro": "无需个人信用，无需卖币，1小时极速放款",
+    "our_service_example": "例如：贷款10,000元，贷款周期90天，贷款利息为2700元（年化利率27%），到期一次性还本还息。",
+    "our_service_ten_thousand": "万",
+    "our_service_element": "元",
+    "our_service_max_loan_fee": "最大贷款金额",
+    "our_service_min_loan_fee": "最低贷款额度:100元",
+    "our_service_highest_loan_fee": "最高贷款额度:50000000元",
+    "our_service_annual_interest_rate": "年化利率",
+    "our_service_annual_interest_percentage": "12%-28%",
+    "our_service_annual_interest_rate_intro": "贷款周期越长，年化利率越低，平均年化利率18%",
+    "our_service_max_loan_cycle_day": "360天",
+    "our_service_max_loan_cycle": "最高贷款周期",
+    "our_service_loan_cycle_list": "提供30天、90天、180天、360天产品",
+    "tip_link": "6月11号之前的比赛请点击此处"
+  },
+  "en": {
+    "soccer": "Soccer",
+    "digital_currency": "Cryptocurrency",
+    "funny_guessing": "Prediction",
+    "tip_link": "Please click here to find predictions before June 11th."
+  },
+  "ja": {
+    "soccer": "サッカー",
+    "digital_currency": "デジタル通貨",
+    "funny_guessing": "おもしろいベッティング",
+    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+  },
+  "ko": {
+    "soccer": "축구",
+    "digital_currency": "디지털 화폐",
+    "funny_guessing": "취미 예측",
+    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
+  },
+  "ru": {
+    "soccer": "Футбол",
+    "digital_currency": "Цифровая валюта",
+    "funny_guessing": "Прогнозирование",
+    "tip_link": "Прогнозы до 11 июня нажмите здесь"
+  },
+  "vi": {
+    "soccer": "Bóng đá",
+    "digital_currency": "chữ số nạp xu",
+    "funny_guessing": "thi đố thú vị",
+    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
+  },
+  "zh-Hant": {
+    "soccer": "足球",
+    "digital_currency": "數字貨幣",
+    "funny_guessing": "趣味競猜",
+    "tip_link": "6月11號之前的比賽請點擊此處"
+  }
+}

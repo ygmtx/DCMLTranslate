@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "plan_detail_current_fee": "ETH当前市价：",
+    "plan_detail_loan_fee": "贷款金额",
+    "plan_detail_mortgage_fee": "抵押金额",
+    "plan_detail_loan_cycle": "贷款期限",
+    "plan_detail_repayment_fee": "应还金额",
+    "plan_detail_contract_deploy_fee": "合约部署费",
+    "plan_detail_interest_fee": "利息金额",
+    "plan_detail_predisposing_line": "预处置线",
+    "plan_detail_strong_leveling_line": "强平线",
+    "plan_detail_apple_date": "申请时间",
+    "plan_detail_margin_call": "补仓",
+    "plan_detail_cancel_loan": "取消贷款",
+    "plan_detail_tips_wait_fee": "待还本金：",
+    "plan_detail_tips_interest_fee": "利息费：",
+    "plan_detail_tips_overdue_fee": "逾期费：",
+    "plan_detail_tips_contract_deploy_fee": "合约部署费："
+  },
+  "en": {
+    "plan_detail_current_fee": "ETH当前市价：",
+    "plan_detail_loan_fee": "贷款金额",
+    "plan_detail_mortgage_fee": "抵押金额",
+    "plan_detail_loan_cycle": "贷款期限",
+    "plan_detail_repayment_fee": "应还金额",
+    "plan_detail_contract_deploy_fee": "合约部署费",
+    "plan_detail_interest_fee": "利息金额",
+    "plan_detail_predisposing_line": "预处置线",
+    "plan_detail_strong_leveling_line": "强平线",
+    "plan_detail_apple_date": "申请时间",
+    "plan_detail_margin_call": "补仓",
+    "plan_detail_cancel_loan": "取消贷款",
+    "plan_detail_tips_wait_fee": "待还本金：",
+    "plan_detail_tips_interest_fee": "利息费：",
+    "plan_detail_tips_overdue_fee": "逾期费：",
+    "plan_detail_tips_contract_deploy_fee": "合约部署费："
+  },
+  "ja": {
+    "dtail_forecast_title": "ETC予測",
+    "detail_forecast_choose": "選択：",
+    "detail_forecast_address": "コインをチャージのアドレス予測：",
+    "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている。",
+    "detail_forecast_notice_two": "公式または個人の財布を使用してETCを予測アドレスまでにチャージしてください",
+    "detail_forecast_all": "毎回最小の予測金額： 0.5ETC",
+    "detail_forecast_copied": "コピーした"
+  },
+  "ko": {
+    "plan_detail_current_fee": "ETH当前市价：",
+    "plan_detail_loan_fee": "贷款金额",
+    "plan_detail_mortgage_fee": "抵押金额",
+    "plan_detail_loan_cycle": "贷款期限",
+    "plan_detail_repayment_fee": "应还金额",
+    "plan_detail_contract_deploy_fee": "合约部署费",
+    "plan_detail_interest_fee": "利息金额",
+    "plan_detail_predisposing_line": "预处置线",
+    "plan_detail_strong_leveling_line": "强平线",
+    "plan_detail_apple_date": "申请时间",
+    "plan_detail_margin_call": "补仓",
+    "plan_detail_cancel_loan": "取消贷款",
+    "plan_detail_tips_wait_fee": "待还本金：",
+    "plan_detail_tips_interest_fee": "利息费：",
+    "plan_detail_tips_overdue_fee": "逾期费：",
+    "plan_detail_tips_contract_deploy_fee": "合约部署费："
+  },
+  "ru": {
+    "dtail_forecast_title": "ETC Прогноз",
+    "detail_forecast_choose": "Опцион：",
+    "detail_forecast_address": "Прогнозный адрес депозита：",
+    "detail_forecast_notice": "Запретить прямой вывод средств с биржи на прогнозный адрес. ",
+    "detail_forecast_notice_two": "Перевод ETC допускается только с официального или личного кошелька на прогнозный адрес",
+    "detail_forecast_all": "Минимальная сумма прогноза： 0.5ETC",
+    "detail_forecast_copied": "скопированный"
+  },
+  "vi": {
+    "dtail_forecast_title": "dự báo ETC",
+    "detail_forecast_choose": "lựa trọn:",
+    "detail_forecast_address": "dự báo địa chỉ nạp xu:",
+    "detail_forecast_notice": "Cấm từ Sở giao dịch nạp xu trực tiếp  đến địa chỉ dự đoán",
+    "detail_forecast_all": "0.5ETC Số tiền đơn tối thiểu đơn dự báo   0.5ETC",
+    "detail_forecast_copied": "đã được sao chép"
+  },
+  "zh-Hant": {
+    "dtail_forecast_title": "ETC預測",
+    "detail_forecast_choose": "選擇：",
+    "detail_forecast_address": "預測充幣地址：",
+    "detail_forecast_notice": "禁止從交易所直接提幣至預測地址,請使用官方或私人錢包充值ETC到預測地址",
+    "detail_forecast_all": "最小單筆預測金額： 0.5ETC",
+    "detail_forecast_copied": "已複製"
+  }
+}

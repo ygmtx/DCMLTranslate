@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "loan_problem_one": "支持抵押哪些币？",
+    "loan_problem_one_answer": "目前支持抵押ETH、ETC，接下来会陆续支持BTC、BCH、LTC、EOS等主流数字货币。",
+    "loan_problem_two": "我能借到哪些法币？",
+    "loan_problem_two_answer": "法币即指法定货币，为各国家发行。目前支持借出人民币、美元、韩元。具体实时开放哪些法币类型，以贷款申请页显示为准。",
+    "loan_problem_three": "借款金额多少？",
+    "loan_problem_three_answer_01": "人民币：最低-1000     最高-5000000",
+    "loan_problem_three_answer_02": "美元：最低-100     最高-700000",
+    "loan_problem_three_answer_03": "韩元：最低-100000  最高-800000000",
+    "loan_problem_four": "借钱期限多长？",
+    "loan_problem_four_answer": "目前支持30天、90天、180天、360天借款时长，随借随还，按日计息。",
+    "loan_problem_five": "贷款利率多少？",
+    "loan_problem_five_answer": "不同借款时长有不同贷款利率，日息最低0.05%，最高0.066%，实际利率以贷款申请页显示为准。",
+    "loan_problem_six": "质押率多少？",
+    "loan_problem_six_answer": "质押率是指贷出金额占比抵押数字货币价值的比率，本平台为50%。数字货币价格以贷款申请时的实时价格为准。譬如用户抵押1个ETH，当时市价2000元，则能贷出金额为2000*50%=1000元。",
+    "loan_problem_seven": "借款对我个人征信有要求么？",
+    "loan_problem_seven_answer": "对个人征信没有要求，我们是数字货币抵押贷款，有币就能贷。",
+    "loan_problem_eight": "什么是智能合约部署费？",
+    "loan_problem_eight_answer": "您抵押的数字货币是托管于智能合约中，每个贷款计划都对应一个单独的智能合约，在以太坊和以太坊经典上部署智能合约需要一定费用。智能合约部署费还款时连同本息一并归还。具体不同贷款计划对应智能合约部署费用，以贷款申请页显示为准。",
+    "loan_problem_nine": "如何转移抵押资产？",
+    "loan_problem_nine_answer": "抵押资产托管于智能合约中，用户需在贷款计划生成后24小时内将足额的抵押资产转账至合约内。24小时内智能合约未收到足额的抵押数字货币，则会取消贷款计划，原路退还已收到数字货币。强烈建议用户使用钱包转账，切勿直接从交易所提币至合约地址，建议设置Gas Limit为50000，保证转账交易成功。",
+    "loan_problem_ten": "如何接收放款？",
+    "loan_problem_ten_answer": "我们采用C2C转账方式，最快1小时放款成功。放款等待时长取决于法币类型、收款银行卡/账户、银行转账限制等因素，一般本平台会在工作日第一时间放款转账。",
+    "loan_problem_eleven": "未放款前可以随时取消贷款申请么？",
+    "loan_problem_eleven_answer": "只要我们未进行放款操作，您随时可以取消贷款申请。",
+    "loan_problem_twelve": "什么时候开始计息？",
+    "loan_problem_twelve_answer": "以放款成功开始计息，期间如果因为外部因素导致放款到账有延迟，这段期间不计利息。"
+  },
+  "en": {
+    "soccer": "Soccer",
+    "digital_currency": "Cryptocurrency",
+    "funny_guessing": "Prediction",
+    "tip_link": "Please click here to find predictions before June 11th."
+  },
+  "ja": {
+    "soccer": "サッカー",
+    "digital_currency": "デジタル通貨",
+    "funny_guessing": "おもしろいベッティング",
+    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+  },
+  "ko": {
+    "soccer": "축구",
+    "digital_currency": "디지털 화폐",
+    "funny_guessing": "취미 예측",
+    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
+  },
+  "ru": {
+    "soccer": "Футбол",
+    "digital_currency": "Цифровая валюта",
+    "funny_guessing": "Прогнозирование",
+    "tip_link": "Прогнозы до 11 июня нажмите здесь"
+  },
+  "vi": {
+    "soccer": "Bóng đá",
+    "digital_currency": "chữ số nạp xu",
+    "funny_guessing": "thi đố thú vị",
+    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
+  },
+  "zh-Hant": {
+    "soccer": "足球",
+    "digital_currency": "數字貨幣",
+    "funny_guessing": "趣味競猜",
+    "tip_link": "6月11號之前的比賽請點擊此處"
+  }
+}

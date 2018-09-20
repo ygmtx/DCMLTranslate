@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "input_validate_empty_email": "请输入贷款金额",
+    "apply_loan_title": "请根据自定义贷款产品选项",
+    "apply_loan_loan_fee": "贷款金额（100-1000000）",
+    "apply_loan_mortgage_funds": "抵押资金",
+    "apply_loan_current_fee": "当前市价",
+    "apply_loan_apply": "立即贷款",
+    "apply_loan_layout_fee": "合约部署服务费：",
+    "apply_loan_interest": "贷款利息：",
+    "apply_loan_predisposing_line": "预处置线：",
+    "apply_loan_repayment_mode": "还款方式：",
+    "apply_loan_repayment_mode_value": "到期一次性还本息",
+    "apply_loan_repayment_fee": "到期应还：",
+    "apply_loan_strong_leveling_line": "强平线：",
+    "apply_loan_protocol": "我已阅读并同意《借款协议》、《借款风险提示书》",
+    "unit_thirty": "30天",
+    "unit_ninety": "90天",
+    "unit_one_hundred_and_eighty": "180天",
+    "unit_three_hundred_and_sixty": "360天"
+  },
+  "en": {
+    "input_validate_empty_email": "请输入手机号",
+    "input_validate_empty_login_password": "请输入密码",
+    "input_non_account": "没有账号？",
+    "input_immediate_register": "立即注册",
+    "input_forget_password": "忘记密码？",
+    "login_title": "登录"
+  },
+  "ko": {
+    "input_validate_empty_email": "이메일 주소를 입력해 주세요",
+    "input_validate_empty_login_password": "로그인 비밀번호를 입력해 주세요",
+    "input_validate_empty_validation_code": "인증코드를 입력해 주세요",
+    "input_send_success": "성공적으로 발송되었습니다. 확인 부탁드립니다. ",
+    "input_label_email": "이메일: ",
+    "input_label_password": "비밀번호: ",
+    "input_label_validation_code": "인증코드: ",
+    "input_button_sign_in": "로그인",
+    "input_button_security_notice": "해당 계정은 안전모드로 전환되었습니다. 인증코드 입력 후 로그인 부탁드립니다. ",
+    "login_title": "Coingame에 로그인한 것을 축하드립니다. "
+  },
+  "ja": {
+    "input_validate_empty_email": "メールアドレスを入力してください",
+    "input_validate_empty_login_password": "ログインパスワードを入力してください",
+    "input_validate_empty_validation_code": "認証コードを入力してください",
+    "input_send_success": "送信成功、ご確認ください",
+    "input_label_email": "メールアドレス：",
+    "input_label_password": "パスワード：",
+    "input_label_validation_code": "認証コード：",
+    "input_button_sign_in": "ログイン",
+    "input_button_security_notice": "このアカウントは既にセキュリティ対策を実施したため、認証コードを入力し登録します",
+    "login_title": " Coingame登録へようこそ。"
+  },
+  "ru": {
+    "input_validate_empty_email": "Пожалуйста, введите свой адрес электронной почты",
+    "input_validate_empty_login_password": "Пожалуйста, введите пароль для входа",
+    "input_validate_empty_validation_code": "Пожалуйста, введите проверочный код",
+    "input_send_success": "Успешно отправлено, пожалуйста, проверьте",
+    "input_label_email": "Электронная почта:",
+    "input_label_password": "Пароль:",
+    "input_label_validation_code": "Проверочный код:",
+    "input_button_sign_in": "Авторизоваться",
+    "input_button_security_notice": "Для этой учетной записи активирована политика безопасности. Пожалуйста, введите проверочный код для входа.",
+    "login_title": "Добро пожаловать чтобы залогиниться! Coingame"
+  },
+  "vi": {
+    "input_validate_empty_email": "xin nhập hộp thư vào",
+    "input_validate_empty_login_password": "xin nhập mật khẩu đăng nhập",
+    "input_validate_empty_validation_code": "xin nhập mã xác nhận",
+    "input_send_success": "gửi thành công，xin kiểm tra",
+    "input_label_email": "hộp thư：",
+    "input_label_password": "mật khẩu：",
+    "input_label_validation_code": "mã  xác  nhận：",
+    "input_button_sign_in": "đăng nhập",
+    "input_button_security_notice": "Trương mục này đã được mở chính sách bảo mật, vui lòng nhập mã xác minh sau khi đăng nhập",
+    "login_title": "hoan nghênh Coingame"
+  },
+  "zh-Hant": {
+    "input_validate_empty_email": "請輸入郵箱",
+    "input_validate_empty_login_password": "請輸入登錄密碼",
+    "input_validate_empty_validation_code": "請輸入驗證碼",
+    "input_send_success": "發送成功， 請查收",
+    "input_label_email": "郵箱：",
+    "input_label_password": "密碼：",
+    "input_label_validation_code": "驗證碼：",
+    "input_button_sign_in": "登錄",
+    "input_button_security_notice": "此帳號已開啟安全策略，請輸入驗證碼後登錄",
+    "login_title": "歡迎登錄Coingame"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "my_case_one_title": "ETH持有者“Jack”的案例",
+    "my_case_one_content_one": "我一直在寻找在保有我数字货币的同时，能够获得资金流动性的方法。",
+    "my_case_one_content_two": "很显然‘coin&cash’帮助我解决了这一难题。",
+    "my_case_one_content_three": "对于像我这样的长期投资者来说，我需要持有大量的数字资产以防止法币的贬值并寻求投资收益，但是与此同时，",
+    "my_case_one_content_four": "我也需要一笔法币资金用于日常生活开销。",
+    "my_case_one_content_five": "‘coin&cash’给我带来了稳定的商业贷款数额，并使我在偿还贷款后，抵押品市值已经增长了很多倍。",
+    "my_case_one_content_six": "我会继续使用和支持‘coin&cash’，期待平台能够获得更巨大的成长。",
+    "my_case_two_title": "ETC矿场主“Bob”的案例",
+    "my_case_two_content_one": "我是一家矿场的老板，持有大量的数字资产，",
+    "my_case_two_content_two": "但是其实每个月我都需要一笔资金用于购买设备、构建厂房、扩大矿场规模、提升算力等等。",
+    "my_case_two_content_three": "从前，我可能会卖掉数字资产并接受法定货币的金额，",
+    "my_case_two_content_four": "但是这其实失去了对于数字货币投资的意义。",
+    "my_case_two_content_five": "直到'coin&cash'的出现，每次我都可以使用ETH或ETC作为抵押，",
+    "my_case_two_content_six": "来获得相应比例的贷款融资，以稳定的货币商定的贷款数额，用于购买设备，扩大生产规模。",
+    "my_case_three_title": "ETH持有者“Emma”的案例",
+    "my_case_three_content_one": "'coin&cash'帮助我实现了资产价值的多倍提升。",
+    "my_case_three_content_two": "我是一名资深的数字货币投资者，",
+    "my_case_three_content_three": "我看好数字货币的世界所能给我带来的巨额收益，",
+    "my_case_three_content_four": "所以我选择了“coin&cash”。",
+    "my_case_three_content_five": "他帮助我在持有数字货币的同时能够获得生活所需的资金。",
+    "my_case_three_content_six": "为了追求投资利益的最大化，我会继续关注并支持“coin&cash”。"
+  },
+  "en": {
+    "soccer": "Soccer",
+    "digital_currency": "Cryptocurrency",
+    "funny_guessing": "Prediction",
+    "tip_link": "Please click here to find predictions before June 11th."
+  },
+  "ja": {
+    "soccer": "サッカー",
+    "digital_currency": "デジタル通貨",
+    "funny_guessing": "おもしろいベッティング",
+    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+  },
+  "ko": {
+    "soccer": "축구",
+    "digital_currency": "디지털 화폐",
+    "funny_guessing": "취미 예측",
+    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
+  },
+  "ru": {
+    "soccer": "Футбол",
+    "digital_currency": "Цифровая валюта",
+    "funny_guessing": "Прогнозирование",
+    "tip_link": "Прогнозы до 11 июня нажмите здесь"
+  },
+  "vi": {
+    "soccer": "Bóng đá",
+    "digital_currency": "chữ số nạp xu",
+    "funny_guessing": "thi đố thú vị",
+    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
+  },
+  "zh-Hant": {
+    "soccer": "足球",
+    "digital_currency": "數字貨幣",
+    "funny_guessing": "趣味競猜",
+    "tip_link": "6月11號之前的比賽請點擊此處"
+  }
+}

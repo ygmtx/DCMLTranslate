@@ -1,0 +1,52 @@
+{
+  "zh": {
+    "safe_problem_one": "什么是预警线？",
+    "safe_problem_one_answer": "当抵押数字货币价格低于预警线时，会短信提醒用户，关注币价。预警线价格=用户到期应还金额/（当前抵押数字货币数量*0.8）。",
+    "safe_problem_two": "什么是预处置线？",
+    "safe_problem_two_answer": "当抵押数字货币价格低于预处置线时，会短信提醒用户，用户需在24小时内补仓或提前还款，如果24小时后依然低于预处置线，则用户抵押资产会被转移处置。",
+    "safe_problem_three": " 什么是强平线？",
+    "safe_problem_three_answer": "任何情况下，当抵押数字货币价格低于强平线时，会立即转移处置用户抵押资产。",
+    "safe_problem_four": " 如何补仓？",
+    "safe_problem_four_answer": "未还的贷款，任何时候都可以进行补仓，补仓地址即是托管抵押资产的智能合约地址。当抵押资产币价低于预处置线时，用户需及时补仓建议金额，以免24小时后价格依然低于预处置线被强平。",
+    "safe_problem_five": "为什么还未放款成功就提醒我补仓？",
+    "safe_problem_five_answer": "当智能合约在24小时内接收足额抵押资产后，贷款计划即生效，风控相关安全策略即开始工作，放款可能有延迟，如果这时币价低于与处置线价格，就会提醒您补仓。等待放款期间，当触发抵押资产处置线时，如果平台未开始放款，则会取消贷款计划，退还用户抵押币；如果平台已经开始放款，则会确保放款成功，可能会出现用户还未收到放款，但抵押资产已被转移处置，不用担心，平台一定会确保放款成功。",
+    "safe_problem_six": "抵押币价格上涨，我能贷出来更多钱么？",
+    "safe_problem_six_answer": "当前不支持，我们正在紧锣密鼓的开发此功能，很快就会上线，敬请期待。"
+  },
+  "en": {
+    "soccer": "Soccer",
+    "digital_currency": "Cryptocurrency",
+    "funny_guessing": "Prediction",
+    "tip_link": "Please click here to find predictions before June 11th."
+  },
+  "ja": {
+    "soccer": "サッカー",
+    "digital_currency": "デジタル通貨",
+    "funny_guessing": "おもしろいベッティング",
+    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+  },
+  "ko": {
+    "soccer": "축구",
+    "digital_currency": "디지털 화폐",
+    "funny_guessing": "취미 예측",
+    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
+  },
+  "ru": {
+    "soccer": "Футбол",
+    "digital_currency": "Цифровая валюта",
+    "funny_guessing": "Прогнозирование",
+    "tip_link": "Прогнозы до 11 июня нажмите здесь"
+  },
+  "vi": {
+    "soccer": "Bóng đá",
+    "digital_currency": "chữ số nạp xu",
+    "funny_guessing": "thi đố thú vị",
+    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
+  },
+  "zh-Hant": {
+    "soccer": "足球",
+    "digital_currency": "數字貨幣",
+    "funny_guessing": "趣味競猜",
+    "tip_link": "6月11號之前的比賽請點擊此處"
+  }
+}

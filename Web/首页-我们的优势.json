@@ -1,0 +1,59 @@
+{
+  "zh": {
+    "home_our_advantage": "我们的优势",
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "抵押区块链数字资产，履约期间可继续持有您的数字资产，无需忍痛抛售",
+    "our_advantage_two_title": "合约质押",
+    "our_advantage_two_value_01": "智能合约托管抵押资产，自动触发合约内容，保证所有贷款服务有效履约",
+    "our_advantage_three_title": "多种货币",
+    "our_advantage_three_value_01": "提供美元、韩元、人民币贷款，根据需要自由选择贷款法币种类",
+    "our_advantage_four_title": "全球支付",
+    "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
+  },
+  "en": {
+    "home_our_advantage": "我们的优势",
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "抵押区块链数字资产，履约期间可继续持有您的数字资产，无需忍痛抛售",
+    "our_advantage_two_title": "合约质押",
+    "our_advantage_two_value_01": "智能合约托管抵押资产，自动触发合约内容，保证所有贷款服务有效履约",
+    "our_advantage_three_title": "多种货币",
+    "our_advantage_three_value_01": "提供美元、韩元、人民币贷款，根据需要自由选择贷款法币种类",
+    "our_advantage_four_title": "全球支付",
+    "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
+  },
+  "ja": {
+    "soccer": "サッカー",
+    "digital_currency": "デジタル通貨",
+    "funny_guessing": "おもしろいベッティング",
+    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+  },
+  "ko": {
+    "home_our_advantage": "我们的优势",
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "抵押区块链数字资产，履约期间可继续持有您的数字资产，无需忍痛抛售",
+    "our_advantage_two_title": "合约质押",
+    "our_advantage_two_value_01": "智能合约托管抵押资产，自动触发合约内容，保证所有贷款服务有效履约",
+    "our_advantage_three_title": "多种货币",
+    "our_advantage_three_value_01": "提供美元、韩元、人民币贷款，根据需要自由选择贷款法币种类",
+    "our_advantage_four_title": "全球支付",
+    "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
+  },
+  "ru": {
+    "soccer": "Футбол",
+    "digital_currency": "Цифровая валюта",
+    "funny_guessing": "Прогнозирование",
+    "tip_link": "Прогнозы до 11 июня нажмите здесь"
+  },
+  "vi": {
+    "soccer": "Bóng đá",
+    "digital_currency": "chữ số nạp xu",
+    "funny_guessing": "thi đố thú vị",
+    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
+  },
+  "zh-Hant": {
+    "soccer": "足球",
+    "digital_currency": "數字貨幣",
+    "funny_guessing": "趣味競猜",
+    "tip_link": "6月11號之前的比賽請點擊此處"
+  }
+}
