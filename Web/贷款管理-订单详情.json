@@ -17,39 +17,37 @@
     "account_noitce_three": "3.平台将于工作日1~2小时内确认还款金额，如遇节假日将顺延（不产生额外费用），请耐心等待。"
   },
   "en": {
-    "soccer": "Soccer",
-    "digital_currency": "Cryptocurrency",
-    "funny_guessing": "Prediction",
-    "tip_link": "Please click here to find predictions before June 11th."
-  },
-  "ja": {
-    "soccer": "サッカー",
-    "digital_currency": "デジタル通貨",
-    "funny_guessing": "おもしろいベッティング",
-    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+    "detail_repay_repay_fee": "应还金额",
+    "detail_repay_repay_code": "还款码(转账时务必备注)",
+    "detail_repay_mode": "还款方式",
+    "detail_repay_mode_name": "银行卡转账",
+    "detail_repay_bank_code": "银行代码",
+    "detail_repay_bank_user_name": "收款人",
+    "detail_repay_already_repay_date": "到期还款日：10月8日",
+    "detail_repay_normal_notice": "请在还款日(含当日)前完成还款",
+    "detail_repay_warn_notice": "您已逾期7天，请尽快还款",
+    "detail_repay_has_repay": "我已还款",
+    "detail_repay_wait_confirm_repay": "还款待确认",
+    "account_noitce_title": "用户须知：",
+    "account_noitce_one": "1.还款时请务必备注还款码，以免造成您的转账金额遗失；",
+    "account_noitce_two": "2.请将欠款转账至上述还款方式内，全部欠款还清后点击“我已还款”等待确认；",
+    "account_noitce_three": "3.平台将于工作日1~2小时内确认还款金额，如遇节假日将顺延（不产生额外费用），请耐心等待。"
   },
   "ko": {
-    "soccer": "축구",
-    "digital_currency": "디지털 화폐",
-    "funny_guessing": "취미 예측",
-    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
-  },
-  "ru": {
-    "soccer": "Футбол",
-    "digital_currency": "Цифровая валюта",
-    "funny_guessing": "Прогнозирование",
-    "tip_link": "Прогнозы до 11 июня нажмите здесь"
-  },
-  "vi": {
-    "soccer": "Bóng đá",
-    "digital_currency": "chữ số nạp xu",
-    "funny_guessing": "thi đố thú vị",
-    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
-  },
-  "zh-Hant": {
-    "soccer": "足球",
-    "digital_currency": "數字貨幣",
-    "funny_guessing": "趣味競猜",
-    "tip_link": "6月11號之前的比賽請點擊此處"
+    "detail_repay_repay_fee": "应还金额",
+    "detail_repay_repay_code": "还款码(转账时务必备注)",
+    "detail_repay_mode": "还款方式",
+    "detail_repay_mode_name": "银行卡转账",
+    "detail_repay_bank_code": "银行代码",
+    "detail_repay_bank_user_name": "收款人",
+    "detail_repay_already_repay_date": "到期还款日：10月8日",
+    "detail_repay_normal_notice": "请在还款日(含当日)前完成还款",
+    "detail_repay_warn_notice": "您已逾期7天，请尽快还款",
+    "detail_repay_has_repay": "我已还款",
+    "detail_repay_wait_confirm_repay": "还款待确认",
+    "account_noitce_title": "用户须知：",
+    "account_noitce_one": "1.还款时请务必备注还款码，以免造成您的转账金额遗失；",
+    "account_noitce_two": "2.请将欠款转账至上述还款方式内，全部欠款还清后点击“我已还款”等待确认；",
+    "account_noitce_three": "3.平台将于工作日1~2小时内确认还款金额，如遇节假日将顺延（不产生额外费用），请耐心等待。"
   }
 }

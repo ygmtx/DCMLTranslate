@@ -8,39 +8,19 @@
     "pay_mode_edit": "编辑"
   },
   "en": {
-    "soccer": "Soccer",
-    "digital_currency": "Cryptocurrency",
-    "funny_guessing": "Prediction",
-    "tip_link": "Please click here to find predictions before June 11th."
-  },
-  "ja": {
-    "soccer": "サッカー",
-    "digital_currency": "デジタル通貨",
-    "funny_guessing": "おもしろいベッティング",
-    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+    "pay_mode_add_bank_name": "中国工商银行(库门里支行)",
+    "pay_mode_add_bank_card": "添加银行卡",
+    "pay_mode_bank_code": "银行代码",
+    "pay_mode_recevice_name": "收款人",
+    "pay_mode_create_date": "添加时间：",
+    "pay_mode_edit": "编辑"
   },
   "ko": {
-    "soccer": "축구",
-    "digital_currency": "디지털 화폐",
-    "funny_guessing": "취미 예측",
-    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
-  },
-  "ru": {
-    "soccer": "Футбол",
-    "digital_currency": "Цифровая валюта",
-    "funny_guessing": "Прогнозирование",
-    "tip_link": "Прогнозы до 11 июня нажмите здесь"
-  },
-  "vi": {
-    "soccer": "Bóng đá",
-    "digital_currency": "chữ số nạp xu",
-    "funny_guessing": "thi đố thú vị",
-    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
-  },
-  "zh-Hant": {
-    "soccer": "足球",
-    "digital_currency": "數字貨幣",
-    "funny_guessing": "趣味競猜",
-    "tip_link": "6月11號之前的比賽請點擊此處"
+    "pay_mode_add_bank_name": "中国工商银行(库门里支行)",
+    "pay_mode_add_bank_card": "添加银行卡",
+    "pay_mode_bank_code": "银行代码",
+    "pay_mode_recevice_name": "收款人",
+    "pay_mode_create_date": "添加时间：",
+    "pay_mode_edit": "编辑"
   }
 }

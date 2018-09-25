@@ -9,39 +9,21 @@
     "mortgaged_assets_copy": "复制"
   },
   "en": {
-    "soccer": "Soccer",
-    "digital_currency": "Cryptocurrency",
-    "funny_guessing": "Prediction",
-    "tip_link": "Please click here to find predictions before June 11th."
-  },
-  "ja": {
-    "soccer": "サッカー",
-    "digital_currency": "デジタル通貨",
-    "funny_guessing": "おもしろいベッティング",
-    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+    "mortgaged_assets_one": "请将数字货币转账至{unit}智能合约地址",
+    "mortgaged_assets_two": "最低转账金额0.0984ETH",
+    "mortgaged_assets_hour": "时",
+    "mortgaged_assets_minute": "分",
+    "mortgaged_assets_seconds": "秒",
+    "mortgaged_assets_count_down": "转账倒计时",
+    "mortgaged_assets_copy": "复制"
   },
   "ko": {
-    "soccer": "축구",
-    "digital_currency": "디지털 화폐",
-    "funny_guessing": "취미 예측",
-    "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요"
-  },
-  "ru": {
-    "soccer": "Футбол",
-    "digital_currency": "Цифровая валюта",
-    "funny_guessing": "Прогнозирование",
-    "tip_link": "Прогнозы до 11 июня нажмите здесь"
-  },
-  "vi": {
-    "soccer": "Bóng đá",
-    "digital_currency": "chữ số nạp xu",
-    "funny_guessing": "thi đố thú vị",
-    "tip_link": "trước ngày 11 tháng 6 Thí đấu bấm vào đây"
-  },
-  "zh-Hant": {
-    "soccer": "足球",
-    "digital_currency": "數字貨幣",
-    "funny_guessing": "趣味競猜",
-    "tip_link": "6月11號之前的比賽請點擊此處"
+    "mortgaged_assets_one": "请将数字货币转账至{unit}智能合约地址",
+    "mortgaged_assets_two": "最低转账金额0.0984ETH",
+    "mortgaged_assets_hour": "时",
+    "mortgaged_assets_minute": "分",
+    "mortgaged_assets_seconds": "秒",
+    "mortgaged_assets_count_down": "转账倒计时",
+    "mortgaged_assets_copy": "复制"
   }
 }

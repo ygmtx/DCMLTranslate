@@ -23,7 +23,6 @@
     "record_detail_warn_noitce": "抵押资产因'持续24小时低于预处置线'已进行处置，如有任何疑问请联系客服"
   },
   "en": {
-    "record_detail_current_fee": "ETH当前市价：",
     "record_detail_loan_fee": "贷款金额",
     "record_detail_mortgage_fee": "抵押金额",
     "record_detail_loan_cycle": "贷款期限",
@@ -34,24 +33,39 @@
     "record_detail_strong_leveling_line": "强平线",
     "record_detail_apple_date": "申请时间",
     "record_detail_margin_call": "补仓",
-    "record_detail_cancel_loan": "还款"
-  },
-  "ja": {
-    "dtail_forecast_title": "ETC予測",
-    "detail_forecast_choose": "選択：",
-    "detail_forecast_address": "コインをチャージのアドレス予測：",
-    "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている。",
-    "detail_forecast_notice_two": "公式または個人の財布を使用してETCを予測アドレスまでにチャージしてください",
-    "detail_forecast_all": "毎回最小の予測金額： 0.5ETC",
-    "detail_forecast_copied": "コピーした"
+    "record_detail_repayment": "还款",
+    "record_detail_early_repayment": "提前还款",
+    "record_detail_address": "质押合约地址：",
+    "record_detail_repay_code": "还款码",
+    "record_detail_arrive_repay_date": "到期还款时间",
+    "record_detail_be_overdue_days": "逾期天数",
+    "record_detail_be_overdue_fee": "逾期金额",
+    "record_detail_ already_repay_fee": "已还金额",
+    "record_detail_credit_date": "放款时间",
+    "record_detail_wait_repayment": "待还款",
+    "record_detail_warn_noitce": "抵押资产因'持续24小时低于预处置线'已进行处置，如有任何疑问请联系客服"
   },
   "ko": {
-    "dtail_forecast_title": "ETC예측",
-    "detail_forecast_choose": "선택：",
-    "detail_forecast_address": "코인충전 주소예측：",
-    "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. ",
-    "detail_forecast_notice_two": "공식 지갑 또는 개인 지갑을 사용하여 ETC를 예측주소로 입금하세요",
-    "detail_forecast_all": "최소 일회 예측 금액 ： 0.5ETC",
-    "detail_forecast_copied": "복사됨"
+    "record_detail_loan_fee": "贷款金额",
+    "record_detail_mortgage_fee": "抵押金额",
+    "record_detail_loan_cycle": "贷款期限",
+    "record_detail_repayment_fee": "应还金额",
+    "record_detail_contract_deploy_fee": "合约部署费",
+    "record_detail_interest_fee": "利息金额",
+    "record_detail_predisposing_line": "预处置线",
+    "record_detail_strong_leveling_line": "强平线",
+    "record_detail_apple_date": "申请时间",
+    "record_detail_margin_call": "补仓",
+    "record_detail_repayment": "还款",
+    "record_detail_early_repayment": "提前还款",
+    "record_detail_address": "质押合约地址：",
+    "record_detail_repay_code": "还款码",
+    "record_detail_arrive_repay_date": "到期还款时间",
+    "record_detail_be_overdue_days": "逾期天数",
+    "record_detail_be_overdue_fee": "逾期金额",
+    "record_detail_ already_repay_fee": "已还金额",
+    "record_detail_credit_date": "放款时间",
+    "record_detail_wait_repayment": "待还款",
+    "record_detail_warn_noitce": "抵押资产因'持续24小时低于预处置线'已进行处置，如有任何疑问请联系客服"
   }
 }
