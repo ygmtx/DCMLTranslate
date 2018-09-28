@@ -7,13 +7,13 @@
     "our_service_element": "元",
     "our_service_max_loan_fee": "最大贷款金额",
     "our_service_min_loan_fee": "最低贷款额度:100元",
-    "our_service_highest_loan_fee": "最高贷款额度:50000000元",
+    "our_service_highest_loan_fee": "最高贷款额度:5000000元",
     "our_service_annual_interest_rate": "年化利率",
     "our_service_annual_interest_percentage": "12%-28%",
     "our_service_annual_interest_rate_intro": "贷款周期越长，年化利率越低，平均年化利率18%",
-    "our_service_max_loan_cycle_day": "360天",
+    "our_service_max_loan_cycle_day": "90天",
     "our_service_max_loan_cycle": "最高贷款周期",
-    "our_service_loan_cycle_list": "提供30天、90天、180天、360天产品",
+    "our_service_loan_cycle_list": "提供7天、14天、30天、90天产品",
     "tip_link": "6月11号之前的比赛请点击此处"
   },
   "en": {
@@ -24,13 +24,13 @@
     "our_service_element": "元",
     "our_service_max_loan_fee": "最大贷款金额",
     "our_service_min_loan_fee": "最低贷款额度:100元",
-    "our_service_highest_loan_fee": "最高贷款额度:50000000元",
+    "our_service_highest_loan_fee": "最高贷款额度:5000000元",
     "our_service_annual_interest_rate": "年化利率",
     "our_service_annual_interest_percentage": "12%-28%",
     "our_service_annual_interest_rate_intro": "贷款周期越长，年化利率越低，平均年化利率18%",
-    "our_service_max_loan_cycle_day": "360天",
+    "our_service_max_loan_cycle_day": "90天",
     "our_service_max_loan_cycle": "最高贷款周期",
-    "our_service_loan_cycle_list": "提供30天、90天、180天、360天产品",
+    "our_service_loan_cycle_list": "提供7天、14天、30天、90天产品",
     "tip_link": "6月11号之前的比赛请点击此处"
   },
   "ko": {
