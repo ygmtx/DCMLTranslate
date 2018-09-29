@@ -9,21 +9,21 @@
     "check_protocol": "阅读并同意《用户服务协议》、《隐私政策》"
   },
   "en": {
-    "input_validate_empty_email": "请输入手机号",
-    "input_validate_empty_login_password": "请设置8-16位数字、字母或字符组合",
-    "input_validate_empty_vscode": "请输入手机验证码",
-    "input_validate_empty_confirm_password": "请再次输入密码",
-    "login_title": "忘记密码",
-    "forget_password_btn": "确认修改",
-    "check_protocol": "阅读并同意《用户服务协议》、《隐私政策》"
+    "input_validate_empty_email": "Please enter mobile phone number",
+    "input_validate_empty_login_password": "Please set 8-16 digits, letters or character combinations",
+    "input_validate_empty_vscode": "Please enter your phone verification code",
+    "input_validate_empty_confirm_password": "Please re-enter your password",
+    "login_title": "Forget password",
+    "forget_password_btn": "Confirm the changes",
+    "check_protocol": "Read and agree to the User Service Agreement and Privacy Policy"
   },
   "ko": {
-    "input_validate_empty_email": "请输入手机号",
-    "input_validate_empty_login_password": "请设置8-16位数字、字母或字符组合",
-    "input_validate_empty_vscode": "请输入手机验证码",
-    "input_validate_empty_confirm_password": "请再次输入密码",
-    "login_title": "忘记密码",
-    "forget_password_btn": "确认修改",
-    "check_protocol": "阅读并同意《用户服务协议》、《隐私政策》"
+    "input_validate_empty_email": "Please enter mobile phone number",
+    "input_validate_empty_login_password": "Please set 8-16 digits, letters or character combinations",
+    "input_validate_empty_vscode": "Please enter your phone verification code",
+    "input_validate_empty_confirm_password": "Please re-enter your password",
+    "login_title": "Forget password",
+    "forget_password_btn": "Confirm the changes",
+    "check_protocol": "Read and agree to the User Service Agreement and Privacy Policy"
   }
 }
