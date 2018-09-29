@@ -11,25 +11,25 @@
     "auth_account_apply": "确认修改"
   },
   "en": {
-    "auth_account_certificate_type": "证件类型",
-    "auth_account_location": "所在地",
-    "auth_account_name": "姓名",
-    "auth_account_card_no": "证件号码",
-    "auth_account_input_name": "请输入姓名",
-    "auth_account_input_card_no": "请输入证件号码",
-    "auth_account_certificate_passport": "护照（非中国大陆居民）",
-    "auth_account_certificate_china": "身份证（中国大陆居民）",
-    "auth_account_apply": "确认修改"
+    "auth_account_certificate_type": "Type of certificate",
+    "auth_account_location": "Location",
+    "auth_account_name": "Name",
+    "auth_account_card_no": "ID number",
+    "auth_account_input_name": "Please enter your name",
+    "auth_account_input_card_no": "Please enter the ID number",
+    "auth_account_certificate_passport": "Passport (non-Chinese mainland residents)",
+    "auth_account_certificate_china": "ID card (Chinese mainland residents)",
+    "auth_account_apply": "Confirm the changes"
   },
   "ko": {
-    "auth_account_certificate_type": "证件类型",
-    "auth_account_location": "所在地",
-    "auth_account_name": "姓名",
-    "auth_account_card_no": "证件号码",
-    "auth_account_input_name": "请输入姓名",
-    "auth_account_input_card_no": "请输入证件号码",
-    "auth_account_certificate_passport": "护照（非中国大陆居民）",
-    "auth_account_certificate_china": "身份证（中国大陆居民）",
-    "auth_account_apply": "确认修改"
+    "auth_account_certificate_type": "Type of certificate",
+    "auth_account_location": "Location",
+    "auth_account_name": "Name",
+    "auth_account_card_no": "ID number",
+    "auth_account_input_name": "Please enter your name",
+    "auth_account_input_card_no": "Please enter the ID number",
+    "auth_account_certificate_passport": "Passport (non-Chinese mainland residents)",
+    "auth_account_certificate_china": "ID card (Chinese mainland residents)",
+    "auth_account_apply": "Confirm the changes"
   }
 }
