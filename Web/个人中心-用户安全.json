@@ -10,23 +10,23 @@
     "account_safe_go_to_auth": "去认证"
   },
   "en": {
-    "account_safe_password": "登录密码",
-    "account_safe_password_notice": "保障账户安全",
-    "account_safe_auth": "身份认证",
-    "account_safe_auth_notice": "提升账户信用、保障借款安全",
-    "account_safe_not_auth": "（未认证）",
-    "account_safe_already_auth": "（已认证）",
-    "account_safe_modify_password": "修改",
-    "account_safe_go_to_auth": "去认证"
+    "account_safe_password": "Login password",
+    "account_safe_password_notice": "Guarantee account security",
+    "account_safe_auth": "ID verification",
+    "account_safe_auth_notice": "Improve account credit and guarantee loan security",
+    "account_safe_not_auth": "（Not verified）",
+    "account_safe_already_auth": "（Verified）",
+    "account_safe_modify_password": "Modify",
+    "account_safe_go_to_auth": "Go for certification"
   },
   "ko": {
-    "account_safe_password": "登录密码",
-    "account_safe_password_notice": "保障账户安全",
-    "account_safe_auth": "身份认证",
-    "account_safe_auth_notice": "提升账户信用、保障借款安全",
-    "account_safe_not_auth": "（未认证）",
-    "account_safe_already_auth": "（已认证）",
-    "account_safe_modify_password": "修改",
-    "account_safe_go_to_auth": "去认证"
+    "account_safe_password": "Login password",
+    "account_safe_password_notice": "Guarantee account security",
+    "account_safe_auth": "ID verification",
+    "account_safe_auth_notice": "Improve account credit and guarantee loan security",
+    "account_safe_not_auth": "（Not verified）",
+    "account_safe_already_auth": "（Verified）",
+    "account_safe_modify_password": "Modify",
+    "account_safe_go_to_auth": "Go for certification"
   }
 }
