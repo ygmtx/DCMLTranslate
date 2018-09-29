@@ -10,23 +10,23 @@
     "our_account_six": "企业组织"
   },
   "en": {
-    "home_our_account": "我们的用户",
-    "our_account_one": "交易所",
-    "our_account_two": "矿工",
-    "our_account_three": "交易者",
-    "our_account_four_one": "资产持",
-    "our_account_four_two": "有者",
-    "our_account_five": "金额机构",
-    "our_account_six": "企业组织"
+    "home_our_account": "Our users",
+    "our_account_one": "Exchange",
+    "our_account_two": "Miner",
+    "our_account_three": "Trader",
+    "our_account_four_one": "Assets",
+    "our_account_four_two": "Holder",
+    "our_account_five": "Amount of institutions",
+    "our_account_six": "Business organization"
   },
   "ko": {
-    "home_our_account": "我们的用户",
-    "our_account_one": "交易所",
-    "our_account_two": "矿工",
-    "our_account_three": "交易者",
-    "our_account_four_one": "资产持",
-    "our_account_four_two": "有者",
-    "our_account_five": "金额机构",
-    "our_account_six": "企业组织"
+    "home_our_account": "Our users",
+    "our_account_one": "Exchange",
+    "our_account_two": "Miner",
+    "our_account_three": "Trader",
+    "our_account_four_one": "Assets",
+    "our_account_four_two": "Holder",
+    "our_account_five": "Amount of institutions",
+    "our_account_six": "Business organization"
   }
 }
