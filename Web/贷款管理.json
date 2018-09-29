@@ -4,11 +4,11 @@
     "repay_mange_no_data": "暂时没有贷款单数据"
   },
   "en": {
-    "repay_mange_loan_record": "查询贷款记录",
-    "repay_mange_no_data": "暂时没有贷款单数据"
+    "repay_mange_loan_record": "Check loan history",
+    "repay_mange_no_data": "Temporarily no loan order"
   },
   "ko": {
-    "repay_mange_loan_record": "查询贷款记录",
-    "repay_mange_no_data": "暂时没有贷款单数据"
+    "repay_mange_loan_record": "Check loan history",
+    "repay_mange_no_data": "Temporarily no loan order"
   }
 }
