@@ -6,15 +6,15 @@
     "help_center_user": "账户"
   },
   "en": {
-    "help_center_loan": "借款",
-    "help_center_repaument": "还款",
-    "help_center_safe": "安全",
-    "help_center_user": "账户"
+    "help_center_loan": "Loan",
+    "help_center_repaument": "Repayment",
+    "help_center_safe": "Security",
+    "help_center_user": "Account"
   },
   "ko": {
-    "help_center_loan": "借款",
-    "help_center_repaument": "还款",
-    "help_center_safe": "安全",
-    "help_center_user": "账户"
+    "help_center_loan": "Loan",
+    "help_center_repaument": "Repayment",
+    "help_center_safe": "Security",
+    "help_center_user": "Account"
   }
 }
