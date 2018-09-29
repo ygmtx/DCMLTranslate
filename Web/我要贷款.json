@@ -10,23 +10,23 @@
     "account_noitce_four": "4. 请按时还款，逾期每天利息为9.8元/万元/天， 超过7天平台将转移并处置抵押资产。"
   },
   "en": {
-    "apply_loan_name": "申请贷款",
-    "apply_loan_mortgaged_assets": "抵押资产",
-    "apply_loan_money_to_account": "贷款到账",
-    "account_noitce_title": "用户须知：",
-    "account_noitce_one": "1. 贷款申请提交后请在24小时内转账抵押资产至指定合约地址；",
-    "account_noitce_two": "2. 多次申请贷款却未完成抵押资产转账，判定为恶意操作，账号将会被冻结；",
-    "account_noitce_three": "3. 及时留意您的抵押资产价格波动，价格过低时请及时补仓或提前还款赎回。当您的抵押资产价格过低未及时补仓，平台将转移并处置抵押资产；",
-    "account_noitce_four": "4. 请按时还款，逾期每天利息为9.8元/万元/天， 超过7天平台将转移并处置抵押资产。"
+    "apply_loan_name": "Apply for a loan",
+    "apply_loan_mortgaged_assets": "mortgaged assetss",
+    "apply_loan_money_to_account": "Loans paid to the account",
+    "account_noitce_title": "User notice：",
+    "account_noitce_one": "1. After the loan application is submitted, please transfer the mortgaged assets to the designated contract address within 24 hours.；",
+    "account_noitce_two": "2. Multiple-time loan application without completion of mortgaged assets transfer is determined as malicious operation and the account will be frozen.",
+    "account_noitce_three": "3. Keep an eye on the price fluctuations of your mortgaged assets. If the price is too low, please replenish your position in time or repay and redeem them in advance. Otherwise, the platform will transfer and dispose of the mortgaged assets.",
+    "account_noitce_four": "4. Please repay on time, the overdue daily interest is 9.8 yuan/10,000 yuan/day, the platform will transfer and dispose of mortgaged assets for overdue repayment over 7 days"
   },
   "ko": {
-    "apply_loan_name": "申请贷款",
-    "apply_loan_mortgaged_assets": "抵押资产",
-    "apply_loan_money_to_account": "贷款到账",
-    "account_noitce_title": "用户须知：",
-    "account_noitce_one": "1. 贷款申请提交后请在24小时内转账抵押资产至指定合约地址；",
-    "account_noitce_two": "2. 多次申请贷款却未完成抵押资产转账，判定为恶意操作，账号将会被冻结；",
-    "account_noitce_three": "3. 及时留意您的抵押资产价格波动，价格过低时请及时补仓或提前还款赎回。当您的抵押资产价格过低未及时补仓，平台将转移并处置抵押资产；",
-    "account_noitce_four": "4. 请按时还款，逾期每天利息为9.8元/万元/天， 超过7天平台将转移并处置抵押资产。"
+    "apply_loan_name": "Apply for a loan",
+    "apply_loan_mortgaged_assets": "mortgaged assetss",
+    "apply_loan_money_to_account": "Loans paid to the account",
+    "account_noitce_title": "User notice：",
+    "account_noitce_one": "1. After the loan application is submitted, please transfer the mortgaged assets to the designated contract address within 24 hours.；",
+    "account_noitce_two": "2. Multiple-time loan application without completion of mortgaged assets transfer is determined as malicious operation and the account will be frozen.",
+    "account_noitce_three": "3. Keep an eye on the price fluctuations of your mortgaged assets. If the price is too low, please replenish your position in time or repay and redeem them in advance. Otherwise, the platform will transfer and dispose of the mortgaged assets.",
+    "account_noitce_four": "4. Please repay on time, the overdue daily interest is 9.8 yuan/10,000 yuan/day, the platform will transfer and dispose of mortgaged assets for overdue repayment over 7 days"
   }
 }
