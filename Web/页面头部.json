@@ -7,18 +7,18 @@
       "header_login": "登录"
     },
     "en": {
-      "header_want_loan": "我要贷款",
-      "header_repayment_manage": "还款管理",
-      "hearer_help_center": "帮助中心",
-      "header_download_app": "下载APP",
-      "header_login": "登录"
+      "header_want_loan": "I want a loan",
+      "header_repayment_manage": "Repayment management",
+      "hearer_help_center": "Help Center",
+      "header_download_app": "Download APP",
+      "header_login": "Login"
     },
     "ko": {
-      "header_want_loan": "我要贷款",
-      "header_repayment_manage": "还款管理",
-      "hearer_help_center": "帮助中心",
-      "header_download_app": "下载APP",
-      "header_login": "登录"
+      "header_want_loan": "I want a loan",
+      "header_repayment_manage": "Repayment management",
+      "hearer_help_center": "Help Center",
+      "header_download_app": "Download APP",
+      "header_login": "Login"
     }
   }
   
