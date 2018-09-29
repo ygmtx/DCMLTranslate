@@ -12,27 +12,27 @@
     "quick_loan_title": "贷款额度"
   },
   "en": {
-    "input_validate_empty_fee": "输入贷款数额",
-    "input_validate_empty_login_password": "请输入密码",
-    "unit_thirty": "30天",
-    "unit_ninety": "90天",
-    "unit_one_hundred_and_eighty": "180天",
-    "unit_three_hundred_and_sixty": "360天",
-    "quick_loan_cycle": "贷款期限",
-    "quick_loan_repayment": "到期应还：",
-    "quick_loan_apply": "立即申请",
-    "quick_loan_title": "贷款额度"
+    "input_validate_empty_fee": "Enter the loan amount",
+    "input_validate_empty_login_password": "Please enter your password",
+    "unit_thirty": "30 Days",
+    "unit_ninety": "90 Days",
+    "unit_one_hundred_and_eighty": "180 Days",
+    "unit_three_hundred_and_sixty": "360 Days",
+    "quick_loan_cycle": "Loan term",
+    "quick_loan_repayment": "Due and Payable：",
+    "quick_loan_apply": "Apply immediately",
+    "quick_loan_title": "Loan amount"
   },
   "ko": {
-    "input_validate_empty_fee": "输入贷款数额",
-    "input_validate_empty_login_password": "请输入密码",
-    "unit_thirty": "30天",
-    "unit_ninety": "90天",
-    "unit_one_hundred_and_eighty": "180天",
-    "unit_three_hundred_and_sixty": "360天",
-    "quick_loan_cycle": "贷款期限",
-    "quick_loan_repayment": "到期应还：",
-    "quick_loan_apply": "立即申请",
-    "quick_loan_title": "贷款额度"
+    "input_validate_empty_fee": "Enter the loan amount",
+    "input_validate_empty_login_password": "Please enter your password",
+    "unit_thirty": "30 Days",
+    "unit_ninety": "90 Days",
+    "unit_one_hundred_and_eighty": "180 Days",
+    "unit_three_hundred_and_sixty": "360 Days",
+    "quick_loan_cycle": "Loan term",
+    "quick_loan_repayment": "Due and Payable：",
+    "quick_loan_apply": "Apply immediately",
+    "quick_loan_title": "Loan amount"
   }
 }
