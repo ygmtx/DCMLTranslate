@@ -8,19 +8,19 @@
     "login_title": "登录"
   },
   "en": {
-    "input_validate_empty_email": "请输入手机号",
-    "input_validate_empty_login_password": "请输入密码",
-    "input_non_account": "没有账号？",
-    "input_immediate_register": "立即注册",
-    "input_forget_password": "忘记密码？",
-    "login_title": "登录"
+    "input_validate_empty_email": "Please enter mobile phone number",
+    "input_validate_empty_login_password": "Please enter your password",
+    "input_non_account": "No account?",
+    "input_immediate_register": "Register now",
+    "input_forget_password": "Forget password?",
+    "login_title": "Login"
   },
   "ko": {
-    "input_validate_empty_email": "请输入手机号",
-    "input_validate_empty_login_password": "请输入密码",
-    "input_non_account": "没有账号？",
-    "input_immediate_register": "立即注册",
-    "input_forget_password": "忘记密码？",
-    "login_title": "登录"
+    "input_validate_empty_email": "Please enter mobile phone number",
+    "input_validate_empty_login_password": "Please enter your password",
+    "input_non_account": "No account?",
+    "input_immediate_register": "Register now",
+    "input_forget_password": "Forget password?",
+    "login_title": "Login"
   }
 }

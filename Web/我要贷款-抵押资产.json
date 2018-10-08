@@ -9,21 +9,21 @@
     "mortgaged_assets_copy": "复制"
   },
   "en": {
-    "mortgaged_assets_one": "请将数字货币转账至{unit}智能合约地址",
-    "mortgaged_assets_two": "最低转账金额0.0984ETH",
-    "mortgaged_assets_hour": "时",
-    "mortgaged_assets_minute": "分",
-    "mortgaged_assets_seconds": "秒",
-    "mortgaged_assets_count_down": "转账倒计时",
-    "mortgaged_assets_copy": "复制"
+    "mortgaged_assets_one": "Please transfer the digital currency to the {unit} smart contract address",
+    "mortgaged_assets_two": "Minimum transfer amount 0.0984ETH",
+    "mortgaged_assets_hour": "Hour",
+    "mortgaged_assets_minute": "Minute",
+    "mortgaged_assets_seconds": "Second",
+    "mortgaged_assets_count_down": "Transfer countdown",
+    "mortgaged_assets_copy": "Copy"
   },
   "ko": {
-    "mortgaged_assets_one": "请将数字货币转账至{unit}智能合约地址",
-    "mortgaged_assets_two": "最低转账金额0.0984ETH",
-    "mortgaged_assets_hour": "时",
-    "mortgaged_assets_minute": "分",
-    "mortgaged_assets_seconds": "秒",
-    "mortgaged_assets_count_down": "转账倒计时",
-    "mortgaged_assets_copy": "复制"
+    "mortgaged_assets_one": "Please transfer the digital currency to the {unit} smart contract address",
+    "mortgaged_assets_two": "Minimum transfer amount 0.0984ETH",
+    "mortgaged_assets_hour": "Hour",
+    "mortgaged_assets_minute": "Minute",
+    "mortgaged_assets_seconds": "Second",
+    "mortgaged_assets_count_down": "Transfer countdown",
+    "mortgaged_assets_copy": "Copy"
   }
 }

@@ -11,25 +11,25 @@
     "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
   },
   "en": {
-    "home_our_advantage": "我们的优势",
-    "our_advantage_one_title": "持币贷款",
-    "our_advantage_one_value_01": "抵押区块链数字资产，履约期间可继续持有您的数字资产，无需忍痛抛售",
-    "our_advantage_two_title": "合约质押",
-    "our_advantage_two_value_01": "智能合约托管抵押资产，自动触发合约内容，保证所有贷款服务有效履约",
-    "our_advantage_three_title": "多种货币",
-    "our_advantage_three_value_01": "提供美元、韩元、人民币贷款，根据需要自由选择贷款法币种类",
-    "our_advantage_four_title": "全球支付",
-    "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
+    "home_our_advantage": "Our advantage",
+    "our_advantage_one_title": "Loan with tokens",
+    "our_advantage_one_value_01": "If mortgaging blockchain digital assets, you can hold your digital assets during the effective contract term",
+    "our_advantage_two_title": "Contract pledge",
+    "our_advantage_two_value_01": "Smart contracts host mortgaged assets, automatically trigger contract content, and ensure that all loan services are effectively executed",
+    "our_advantage_three_title": "Multiple currencies",
+    "our_advantage_three_value_01": "Provide US dollar, Korean won, RMB loans, and fiat loan upon demand",
+    "our_advantage_four_title": "Global payment",
+    "our_advantage_four_value_01": "24H global opening lending service, you can borrow money at any time and anywhere"
   },
   "ko": {
-    "home_our_advantage": "我们的优势",
-    "our_advantage_one_title": "持币贷款",
-    "our_advantage_one_value_01": "抵押区块链数字资产，履约期间可继续持有您的数字资产，无需忍痛抛售",
-    "our_advantage_two_title": "合约质押",
-    "our_advantage_two_value_01": "智能合约托管抵押资产，自动触发合约内容，保证所有贷款服务有效履约",
-    "our_advantage_three_title": "多种货币",
-    "our_advantage_three_value_01": "提供美元、韩元、人民币贷款，根据需要自由选择贷款法币种类",
-    "our_advantage_four_title": "全球支付",
-    "our_advantage_four_value_01": "24H全球开通放款服务，随时随地有币就能贷"
+    "home_our_advantage": "Our advantage",
+    "our_advantage_one_title": "Loan with tokens",
+    "our_advantage_one_value_01": "If mortgaging blockchain digital assets, you can hold your digital assets during the effective contract term",
+    "our_advantage_two_title": "Contract pledge",
+    "our_advantage_two_value_01": "Smart contracts host mortgaged assets, automatically trigger contract content, and ensure that all loan services are effectively executed",
+    "our_advantage_three_title": "Multiple currencies",
+    "our_advantage_three_value_01": "Provide US dollar, Korean won, RMB loans, and fiat loan upon demand",
+    "our_advantage_four_title": "Global payment",
+    "our_advantage_four_value_01": "24H global opening lending service, you can borrow money at any time and anywhere"
   }
 }

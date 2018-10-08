@@ -7,17 +7,17 @@
     "top_banner_loan_btn": "立即贷款"
   },
   "en": {
-    "top_banner_title": "数字货币抵押贷款",
-    "top_banner_support_cion": "支持ETH、ETC抵押贷款",
-    "top_banner_support_platform": "基于智能合约打造",
-    "top_banner_safety": "安全、极速、可信赖",
-    "top_banner_loan_btn": "立即贷款"
+    "top_banner_title": "Digital currency mortgage loan",
+    "top_banner_support_cion": "Support ETH, ETC mortgage",
+    "top_banner_support_platform": "Built on smart contracts",
+    "top_banner_safety": "Safe, fast, reliable",
+    "top_banner_loan_btn": "Immediate loan"
   },
   "ko": {
-    "top_banner_title": "数字货币抵押贷款",
-    "top_banner_support_cion": "支持ETH、ETC抵押贷款",
-    "top_banner_support_platform": "基于智能合约打造",
-    "top_banner_safety": "安全、极速、可信赖",
-    "top_banner_loan_btn": "立即贷款"
+    "top_banner_title": "Digital currency mortgage loan",
+    "top_banner_support_cion": "Support ETH, ETC mortgage",
+    "top_banner_support_platform": "Built on smart contracts",
+    "top_banner_safety": "Safe, fast, reliable",
+    "top_banner_loan_btn": "Immediate loan"
   }
 }

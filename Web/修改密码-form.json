@@ -9,21 +9,21 @@
     "change_pwd_apply": "确认修改"
   },
   "en": {
-    "change_pwd_old_pwd": "旧密码",
-    "change_pwd_new_pwd": "新密码",
-    "change_pwd_confirm_pwd": "重复密码",
-    "change_pwd_input_old_pwd": "请输入旧密码",
-    "change_pwd_input_new_pwd": "请设置8-16位数字、字母或字符组合",
-    "change_pwd_input_confirm_pwd": "请再次输入密码",
-    "change_pwd_apply": "确认修改"
+    "change_pwd_old_pwd": "Old password",
+    "change_pwd_new_pwd": "New password",
+    "change_pwd_confirm_pwd": "Repeat password",
+    "change_pwd_input_old_pwd": "Please enter the old password",
+    "change_pwd_input_new_pwd": "Please set 8-16 digits, letters or character combinations",
+    "change_pwd_input_confirm_pwd": "Please re-enter your password",
+    "change_pwd_apply": "Confirm the changes"
   },
   "ko": {
-    "change_pwd_old_pwd": "旧密码",
-    "change_pwd_new_pwd": "新密码",
-    "change_pwd_confirm_pwd": "重复密码",
-    "change_pwd_input_old_pwd": "请输入旧密码",
-    "change_pwd_input_new_pwd": "请设置8-16位数字、字母或字符组合",
-    "change_pwd_input_confirm_pwd": "请再次输入密码",
-    "change_pwd_apply": "确认修改"
+    "change_pwd_old_pwd": "Old password",
+    "change_pwd_new_pwd": "New password",
+    "change_pwd_confirm_pwd": "Repeat password",
+    "change_pwd_input_old_pwd": "Please enter the old password",
+    "change_pwd_input_new_pwd": "Please set 8-16 digits, letters or character combinations",
+    "change_pwd_input_confirm_pwd": "Please re-enter your password",
+    "change_pwd_apply": "Confirm the changes"
   }
 }

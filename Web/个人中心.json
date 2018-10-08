@@ -6,15 +6,15 @@
     "personal_center_message_center": "消息中心"
   },
   "en": {
-    "personal_center_record": "贷款记录",
-    "personal_center_safe": "账户安全",
-    "personal_center_mode": "收款方式",
-    "personal_center_message_center": "消息中心"
+    "personal_center_record": "Loan history",
+    "personal_center_safe": "Account security",
+    "personal_center_mode": "Payment method",
+    "personal_center_message_center": "Message Center"
   },
   "ko": {
-    "personal_center_record": "贷款记录",
-    "personal_center_safe": "账户安全",
-    "personal_center_mode": "收款方式",
-    "personal_center_message_center": "消息中心"
+    "personal_center_record": "Loan history",
+    "personal_center_safe": "Account security",
+    "personal_center_mode": "Payment method",
+    "personal_center_message_center": "Message Center"
   }
 }

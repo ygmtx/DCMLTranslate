@@ -6,15 +6,15 @@
     "message_center_all_read": "全部读取"
   },
   "en": {
-    "message_center_all": "全部",
-    "message_center_has_read": "已读",
-    "message_center_no_read": "未读",
-    "message_center_all_read": "全部读取"
+    "message_center_all": "All",
+    "message_center_has_read": "Read",
+    "message_center_no_read": "Unread",
+    "message_center_all_read": "Read all"
   },
   "ko": {
-    "message_center_all": "全部",
-    "message_center_has_read": "已读",
-    "message_center_no_read": "未读",
-    "message_center_all_read": "全部读取"
+    "message_center_all": "All",
+    "message_center_has_read": "Read",
+    "message_center_no_read": "Unread",
+    "message_center_all_read": "Read all"
   }
 }

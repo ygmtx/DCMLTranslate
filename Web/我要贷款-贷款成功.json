@@ -6,15 +6,15 @@
     "loaning_content_end": "内放款，如遇节假日将顺延，请注意查收~"
   },
   "en": {
-    "loaning_loan_ing": "放款中...",
-    "loaning_content_begin": "平台将于工作日",
-    "loaning_content_middle": "1~2小时",
-    "loaning_content_end": "内放款，如遇节假日将顺延，请注意查收~"
+    "loaning_loan_ing": "Now granting the loans",
+    "loaning_content_begin": "Platform will be on weekdays",
+    "loaning_content_middle": "1~2 hours",
+    "loaning_content_end": "within...will be postponed in case of holidays, please check it in time"
   },
   "ko": {
-    "loaning_loan_ing": "放款中...",
-    "loaning_content_begin": "平台将于工作日",
-    "loaning_content_middle": "1~2小时",
-    "loaning_content_end": "内放款，如遇节假日将顺延，请注意查收~"
+    "loaning_loan_ing": "Now granting the loans",
+    "loaning_content_begin": "Platform will be on weekdays",
+    "loaning_content_middle": "1~2 hours",
+    "loaning_content_end": "within...will be postponed in case of holidays, please check it in time"
   }
 }

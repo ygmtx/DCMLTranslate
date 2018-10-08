@@ -6,15 +6,15 @@
     "loan_record_cancel": "已取消"
   },
   "en": {
-    "loan_record_all": "全部",
-    "loan_record_repay": "已还款",
-    "loan_record_handle": "已处置",
-    "loan_record_cancel": "已取消"
+    "loan_record_all": "All",
+    "loan_record_repay": "Repaid",
+    "loan_record_handle": "Disposed",
+    "loan_record_cancel": "Cancelled"
   },
   "ko": {
-    "loan_record_all": "全部",
-    "loan_record_repay": "已还款",
-    "loan_record_handle": "已处置",
-    "loan_record_cancel": "已取消"
+    "loan_record_all": "All",
+    "loan_record_repay": "Repaid",
+    "loan_record_handle": "Disposed",
+    "loan_record_cancel": "Cancelled"
   }
 }

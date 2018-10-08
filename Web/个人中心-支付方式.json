@@ -9,18 +9,18 @@
   },
   "en": {
     "pay_mode_add_bank_name": "中国工商银行(库门里支行)",
-    "pay_mode_add_bank_card": "添加银行卡",
-    "pay_mode_bank_code": "银行代码",
-    "pay_mode_recevice_name": "收款人",
-    "pay_mode_create_date": "添加时间：",
-    "pay_mode_edit": "编辑"
+    "pay_mode_add_bank_card": "Add a bank card",
+    "pay_mode_bank_code": "Bank Code",
+    "pay_mode_recevice_name": "Recipient",
+    "pay_mode_create_date": "Add time：",
+    "pay_mode_edit": "Edit"
   },
   "ko": {
     "pay_mode_add_bank_name": "中国工商银行(库门里支行)",
-    "pay_mode_add_bank_card": "添加银行卡",
-    "pay_mode_bank_code": "银行代码",
-    "pay_mode_recevice_name": "收款人",
-    "pay_mode_create_date": "添加时间：",
-    "pay_mode_edit": "编辑"
+    "pay_mode_add_bank_card": "Add a bank card",
+    "pay_mode_bank_code": "Bank Code",
+    "pay_mode_recevice_name": "Recipient",
+    "pay_mode_create_date": "Add time：",
+    "pay_mode_edit": "Edit"
   }
 }
