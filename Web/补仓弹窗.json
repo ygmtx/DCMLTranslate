@@ -8,7 +8,7 @@
     "user_notice_content_one": "1.禁止向智能合约转账除ETH之外的资产，任何转入的非ETH资产将会丢失；",
     "user_notice_content_two": "2.禁止从交易所直接提币至智能合约地址，请使用官方或私人钱包转账ETH到智能合约地址；交易所提币至合约地址，将面临退还抵押资产丢失风险；",
     "user_notice_content_three": "3.建议将Gas Limit设置为50,000以确保ETH能成功转币到智能合约地址； ",
-    "user_notice_content_four": "4.抵押资产转账交易在30个区块确认后，智能合约接收抵押资产成功，足额且未到强平线，将自动进入放款流程，请耐心等待。"
+    "user_notice_content_four": "4.抵押资产转账交易在30个区块确认后，智能合约接收抵押资产成功，请耐心等待。"
   },
   "en": {
     "cover_title": "ETH Replenish your position",
@@ -19,7 +19,7 @@
     "user_notice_content_one": "1.It is forbidden to transfer assets other than ETH to smart contracts, and any such transferred assets will be lost.",
     "user_notice_content_two": "2.It is forbidden to withdraw money directly from the exchange to the smart contract address. Please use the official or private wallet to transfer ETH to the smart contract address; the exchange conducting withdrawal to the contract address will be faced with the risk of losing the returned mortgaged assets.",
     "user_notice_content_three": "3.It is recommended to set the Gas Limit to 50,000 to ensure that ETH can successfully be transferred to the smart contract address. ",
-    "user_notice_content_four": "4.After the mortgaged assets transfer transaction is confirmed in 30 blocks, the smart contract  successfully receives the mortgaged assets, the full-amount transfer and no touch of the forced liquidation floor will ensure automatic move to the loan granting process. Please wait."
+    "user_notice_content_four": "4.After the mortgaged assets transfer transaction is confirmed in 30 blocks, the smart contract  successfully receives the mortgaged assets.Please wait."
   },
   "ko": {
     "cover_title": "ETH Replenish your position",
@@ -30,6 +30,5 @@
     "user_notice_content_one": "1.It is forbidden to transfer assets other than ETH to smart contracts, and any such transferred assets will be lost.",
     "user_notice_content_two": "2.It is forbidden to withdraw money directly from the exchange to the smart contract address. Please use the official or private wallet to transfer ETH to the smart contract address; the exchange conducting withdrawal to the contract address will be faced with the risk of losing the returned mortgaged assets.",
     "user_notice_content_three": "3.It is recommended to set the Gas Limit to 50,000 to ensure that ETH can successfully be transferred to the smart contract address. ",
-    "user_notice_content_four": "4.After the mortgaged assets transfer transaction is confirmed in 30 blocks, the smart contract  successfully receives the mortgaged assets, the full-amount transfer and no touch of the forced liquidation floor will ensure automatic move to the loan granting process. Please wait."
-  }
+    "user_notice_content_four": "4.After the mortgaged assets transfer transaction is confirmed in 30 blocks, the smart contract  successfully receives the mortgaged assets.Please wait.
 }
