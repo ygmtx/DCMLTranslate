@@ -1,0 +1,48 @@
+{
+  "zh": {
+    "hidden_container_title": "借款协议",
+    "bind_bank_card_title": "确认绑卡吗？",
+    "bind_bank_card_value": "请确认银行卡信息无误，否则将导致转账失败等问题",
+    "confirm_cancel_loan_title": "确定取消贷款吗？",
+    "account_no_register_title": "该账号尚未注册",
+    "account_already_register_title": "该账号已注册",
+    "confirm_apply_examine_title": "确认提交还款审核吗？",
+    "confirm_modify_kyc_title": "确认修改身份信息吗？",
+    "confirm_modify_kyc_value": "请确认身份信息无误，否则将导致转账失败等问题",
+    "model_container_cancel": "取消",
+    "model_container_confirm": "确定",
+    "model_container_to_register": "去注册",
+    "model_container_to_login": "直接登录"
+  },
+  "en": {
+    "hidden_container_title": "借款协议",
+    "bind_bank_card_title": "确认绑卡吗？",
+    "bind_bank_card_value": "请确认银行卡信息无误，否则将导致转账失败等问题",
+    "confirm_cancel_loan_title": "确定取消贷款吗？",
+    "account_no_register_title": "该账号尚未注册",
+    "account_already_register_title": "该账号已注册",
+    "confirm_apply_examine_title": "确认提交还款审核吗？",
+    "confirm_modify_kyc_title": "确认修改身份信息吗？",
+    "confirm_modify_kyc_value": "请确认身份信息无误，否则将导致转账失败等问题",
+    "model_container_cancel": "取消",
+    "model_container_confirm": "确定",
+    "model_container_to_register": "去注册",
+    "model_container_to_login": "直接登录"
+  },
+
+  "ko": {
+    "hidden_container_title": "借款协议",
+    "bind_bank_card_title": "确认绑卡吗？",
+    "bind_bank_card_value": "请确认银行卡信息无误，否则将导致转账失败等问题",
+    "confirm_cancel_loan_title": "确定取消贷款吗？",
+    "account_no_register_title": "该账号尚未注册",
+    "account_already_register_title": "该账号已注册",
+    "confirm_apply_examine_title": "确认提交还款审核吗？",
+    "confirm_modify_kyc_title": "确认修改身份信息吗？",
+    "confirm_modify_kyc_value": "请确认身份信息无误，否则将导致转账失败等问题",
+    "model_container_cancel": "取消",
+    "model_container_confirm": "确定",
+    "model_container_to_register": "去注册",
+    "model_container_to_login": "直接登录"
+  }
+}
