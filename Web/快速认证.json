@@ -10,23 +10,23 @@
     "quick_auth_already_add": "已添加"
   },
   "en": {
-    "quick_auth_title": "请先完成以下安全设置",
-    "quick_auth_auth_account": "身份认证：",
-    "quick_auth_pay_mode": "收款方式：",
-    "quick_auth_go_to_set": "前往设置",
-    "quick_auth_not_auth": "未认证",
-    "quick_auth_already_auth": "已认证",
-    "quick_auth_not_add": "未添加",
-    "quick_auth_already_add": "已添加"
+    "quick_auth_title": "Please complete the following security settings first",
+    "quick_auth_auth_account": "Authentication：",
+    "quick_auth_pay_mode": "Money collection method：",
+    "quick_auth_go_to_set": "Go to set",
+    "quick_auth_not_auth": "Not verified",
+    "quick_auth_already_auth": "Verified",
+    "quick_auth_not_add": "Not added",
+    "quick_auth_already_add": "Added"
   },
   "ko": {
-    "quick_auth_title": "请先完成以下安全设置",
-    "quick_auth_auth_account": "身份认证：",
-    "quick_auth_pay_mode": "收款方式：",
-    "quick_auth_go_to_set": "前往设置",
-    "quick_auth_not_auth": "未认证",
-    "quick_auth_already_auth": "已认证",
-    "quick_auth_not_add": "未添加",
-    "quick_auth_already_add": "已添加"
+    "quick_auth_title": "Please complete the following security settings first",
+    "quick_auth_auth_account": "Authentication：",
+    "quick_auth_pay_mode": "Money collection method：",
+    "quick_auth_go_to_set": "Go to set",
+    "quick_auth_not_auth": "Not verified",
+    "quick_auth_already_auth": "Verified",
+    "quick_auth_not_add": "Not added",
+    "quick_auth_already_add": "Added"
   }
 }
