@@ -307,5 +307,5 @@
     "mortgage_noitce_four": "4.After the mortgaged assets transfer transaction is confirmed in 30 blocks, the smart contract  successfully receives the mortgaged assets, the full-amount transfer and no touch of the forced liquidation floor will ensure automatic move to the loan granting process. Please wait.。",
     "repayment_noitce_one": "1.款项将通过您设置的收款方式转账，请注意查收，利息将在放款成功后开始计算；",
     "repayment_noitce_two": "2. 及时留意您的抵押资产价格波动，价格过低时请及时补仓或提前还款赎回。当您的抵押资产价格过低未及时补仓，平台将转移并处置抵押资产；",
-    "repayment_noitce_three": "3. 请按时还款，逾期每天利息为9.8元/万元/天，逾期超过7天平台将转移并处置抵押资产",
+    "repayment_noitce_three": "3. Please repay the loan on time. Otherwise an overdue fee of 9.8 per day will be charged. If overdue for more than 7 days, the platform will transfer and dispose of the mortgaged assets.",
 }
