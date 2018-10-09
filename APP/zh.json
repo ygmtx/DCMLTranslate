@@ -300,5 +300,9 @@
     "loanDetail": "贷款详情",
     "note": "备注",
     "repaymentTime": "还款时间",
-    "resolveTime": "处置时间"
+    "resolveTime": "处置时间",
+    "mortgage_noitce_one": "1.禁止向智能合约转账除ETH之外的资产，任何转入的非ETH资产将会丢失；",
+    "mortgage_noitce_two": "2.禁止从交易所直接提币至智能合约地址，请使用官方或私人钱包转账ETH到智能合约地址；交易所提币至合约地址，将面临退还抵押资产丢失风险；",
+    "mortgage_noitce_three": "3.建议将Gas Limit设置为50,000以确保ETH能成功转币到智能合约地址；",
+    "mortgage_noitce_four": "4.抵押资产转账交易在30个区块确认后，智能合约接收抵押资产成功，足额且未到强平线，将自动进入放款流程，请耐心等待。"
 }
