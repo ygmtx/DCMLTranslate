@@ -309,5 +309,12 @@
 	"mortgage_noitce_four": "4.抵押资产转账交易在30个区块确认后，智能合约接收抵押资产成功，足额且未到强平线，将自动进入放款流程，请耐心等待。",
 	"repayment_noitce_one": "1.款项将通过您设置的收款方式转账，请注意查收，利息将在放款成功后开始计算；",
 	"repayment_noitce_two": "2. 及时留意您的抵押资产价格波动，价格过低时请及时补仓或提前还款赎回。当您的抵押资产价格过低未及时补仓，平台将转移并处置抵押资产；",
-	"repayment_noitce_three": "3. 请按时还款，逾期每天利息为9.8元/万元/天，逾期超过7天平台将转移并处置抵押资产"
+	"repayment_noitce_three": "3. 请按时还款，逾期每天利息为9.8元/万元/天，逾期超过7天平台将转移并处置抵押资产",
+    "welcome_one_one":"智能合约托管",
+    "welcome_one_two":"抵押资产链上托管，公开透明",
+    "welcome_two_one":"多种抵押资产",
+    "welcome_two_two":"支持ETH、ETC、BTC抵押贷款",
+    "welcome_three_one":"法币放款",
+    "welcome_three_two":"支持借出人民币、美元、韩元",
+    "experienceImmediately":"立即体验"
 }
