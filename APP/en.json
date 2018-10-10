@@ -310,11 +310,11 @@
 	"repayment_noitce_one": "1.The payment will be transferred through the money collecting method you have set. Please check, the interest will be calculated after the loan is successfully executed.；",
 	"repayment_noitce_two": "2. Keep an eye on the price fluctuations of your mortgaged assets. If the price is too low, please replenish your position in time or repay and redeem them in advance. Otherwise, the platform will transfer and dispose of the mortgaged assets.；",
 	"repayment_noitce_three": "3. Please repay the loan on time. Otherwise an overdue fee of 9.8 per day will be charged. If overdue for more than 7 days, the platform will transfer and dispose of the mortgaged assets.",
-    "welcome_one_one":"智能合约托管",
-    "welcome_one_two":"抵押资产链上托管，公开透明",
-    "welcome_two_one":"多种抵押资产",
-    "welcome_two_two":"支持ETH、ETC、BTC抵押贷款",
-    "welcome_three_one":"法币放款",
-    "welcome_three_two":"支持借出人民币、美元、韩元",
-    "experienceImmediately":"立即体验"
+    "welcome_one_one":"Smart contract custody",
+    "welcome_one_two":"Mortgaged assets in open and transparent on-chain custody",
+    "welcome_two_one":"Multiple mortgaged assets",
+    "welcome_two_two":"Support ETH/ETC/BTC mortgage",
+    "welcome_three_one":"Loan paid in fiat ",
+    "welcome_three_two":"Support CNY/USD/KRW lending",
+    "experienceImmediately":"Experience it now"
 }
