@@ -134,7 +134,9 @@
     "hidden_container_thirteen_two": "开户银行",
     "hidden_container_thirteen_three": "账号",
     "hidden_container_refuse": "拒绝",
-    "hidden_container_agree": "同意"
+    "hidden_container_agree": "同意",
+    "hidden_container_list_one":"见本协议附件一列表",
+    "hidden_container_list_Two":"见本协议附件二列表"
   },
   "en": {
     "hidden_container_title": "Terms of Use",
@@ -162,7 +164,7 @@
     "hidden_container_content_twentyTwo": "20、Additionally, users shall indemnify the Site from and against all claims, liabilities, losses and expenses, arising out of or with regards to any breach of the Entire Agreement by users, and any other duties caused by using the Site. Failure to claim promptly shall not be regarded as a waiver of any right. ",
     "hidden_container_content_twentyThree": "21、Users should take legal action pertaining to any claim or dispute arising out of the use of the Site or the forecast activity within one (1) year upon the occurring of the dispute.",
     "hidden_container_refuse": "Decline",
-    "hidden_container_agree": "Accept"
+    "hidden_container_agree": "Accept",
   },
   "ko": {
     "hidden_container_title": "이용 약관",
