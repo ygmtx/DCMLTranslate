@@ -15,7 +15,10 @@
     "plan_detail_tips_wait_fee": "待还本金：",
     "plan_detail_tips_interest_fee": "利息费：",
     "plan_detail_tips_overdue_fee": "逾期费：",
-    "plan_detail_tips_contract_deploy_fee": "合约部署费："
+    "plan_detail_tips_contract_deploy_fee": "合约部署费：",
+    "strong_leveling_line_intro": "当您的抵押资产价格低于强平线时，平台将立刻进行资产处置",
+    "predisposing_line_intro": "当您的抵押资产价格低于预处置线时，需在24小时内补仓至安全线，如果24小时后价格依然低于预处置线，则会转移并处置抵押资产",
+    "current_price_intro": "根据Bitfinex、币安、okex、火币24小时ETH交易量加权平均值计算出来的实时价格"
   },
   "en": {
     "plan_detail_current_fee": "ETH Current market price：",
@@ -33,7 +36,10 @@
     "plan_detail_tips_wait_fee": "Principal to be repaid：",
     "plan_detail_tips_interest_fee": "Interest expense：",
     "plan_detail_tips_overdue_fee": "Overdue fee：",
-    "plan_detail_tips_contract_deploy_fee": "Contract deployment fee："
+    "plan_detail_tips_contract_deploy_fee": "Contract deployment fee：",
+    "strong_leveling_line_intro": "当您的抵押资产价格低于强平线时，平台将立刻进行资产处置",
+    "predisposing_line_intro": "当您的抵押资产价格低于预处置线时，需在24小时内补仓至安全线，如果24小时后价格依然低于预处置线，则会转移并处置抵押资产",
+    "current_price_intro": "根据Bitfinex、币安、okex、火币24小时ETH交易量加权平均值计算出来的实时价格"
   },
   "ko": {
     "plan_detail_current_fee": "ETH Current market price：",
@@ -51,6 +57,9 @@
     "plan_detail_tips_wait_fee": "Principal to be repaid：",
     "plan_detail_tips_interest_fee": "Interest expense：",
     "plan_detail_tips_overdue_fee": "Overdue fee：",
-    "plan_detail_tips_contract_deploy_fee": "Contract deployment fee："
+    "plan_detail_tips_contract_deploy_fee": "Contract deployment fee：",
+    "strong_leveling_line_intro": "当您的抵押资产价格低于强平线时，平台将立刻进行资产处置",
+    "predisposing_line_intro": "当您的抵押资产价格低于预处置线时，需在24小时内补仓至安全线，如果24小时后价格依然低于预处置线，则会转移并处置抵押资产",
+    "current_price_intro": "根据Bitfinex、币安、okex、火币24小时ETH交易量加权平均值计算出来的实时价格"
   }
 }
