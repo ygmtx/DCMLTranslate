@@ -574,5 +574,19 @@
 		"register_protocol_content_six_1": "32、 用户已认可用户与本平台间的完整合约或使用本平台不会导致本平台与用户之间存在任何合资企业，合伙，雇佣关系。本平台对完整合约的履行受制于现行有效的法律和法律程序。如果完整合约的任何部分根据适用法律被确定为无效或不可执行，则无效或不可执行的条款将被有效的，可强制执行的且最贴近原始条款意图的条款替代。其余部分继续有效。",
 		"register_protocol_content_six_2": "33、 用户因违反完整合约的任何条款或其他行为导致本平台受损,包括但不限于名誉损害，本平台有权追究用户赔偿损失。本平台未及时追责，不视为对任何权利的放弃。",
 		"register_protocol_content_six_3": "34、 用户因使用本平台服务引起的纠纷的追责，须于纠纷发生起一（1）年内提出。"
-	}
+	},
+        "network_error": "网络未连接,请检查网络",
+	"no_messages": "暂无消息",
+	"system_messages": "系统消息",
+	"add_bankcard_succeed": "添加银行卡成功",
+	"bankcard_number_not_same": "两次输入银行卡号不一致",
+	"bank_account_not_same": "两次输入账户号不一致",
+	"dont_edit_before_loan_complete": "贷款计划放款中，请不要修改银行卡信息",
+	"send": "发送",
+	"new_password_not_same": "两次输入新密码不一致",
+	"restricted": "操作过于频繁，请{time}小时后再试",
+	"psdResetSuc": "密码重置成功",
+	"sendSuc":"发送成功",
+	"psdChangeSuc":"密码修改成功",
+	"loading":"下载中..."
 }
