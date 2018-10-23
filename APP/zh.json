@@ -98,7 +98,7 @@
 	"American_area_code": "美国 1",
 	"Korean_area_code": "韩国 82",
 	"input_cellphone_number": "请输入手机号",
-	"login_password_limit": "登录密码为8-16位数字、字母或字符组合",
+	"login_password_limit": "登录密码为8-16位数字、字母或字符组合的密码",
 	"set_password_limit": "请设置8-16位数字、字母或字符组合",
 	"register": "注册",
 	"register_to_agree": "注册即同意",
