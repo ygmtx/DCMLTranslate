@@ -577,7 +577,7 @@
 	"new_password_not_same": "Inconsistent new passwords",
 	"restricted": "Frequent operation, try later after {time} hours",
 	"psdResetSuc": "Password reset succeeded",
-	"sendSuc":"Password reset succeeded",
+	"sendSuc":"Sent successfully",
 	"psdChangeSuc":"Password reset completed",
 	"loading":"Downloading..."
 }
