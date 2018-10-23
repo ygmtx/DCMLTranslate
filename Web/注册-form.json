@@ -2,7 +2,7 @@
   "zh": {
     "input_validate_empty_email": "请输入手机号",
     "input_validate_phone_format_error": "请输入正确的手机号码",
-    "input_validate_empty_login_password": "请设置8-16位数字、字母或字符组合的密码",
+    "input_validate_empty_login_password": "请设置8-16位的密码",
     "input_validate_empty_vscode": "请输入手机验证码",
     "input_validate_empty_confirm_password": "请再次输入密码",
     "input_validate_mismatch": "两次输入密码不一致",
