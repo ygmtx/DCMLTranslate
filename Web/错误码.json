@@ -115,10 +115,10 @@
     "loan_amount_not_equal_now_loan_amount": "Please re-confirm the loan amount",
     "invalid_loan_general_param": "Loan product does not exist",
     "roll_back": "Abnormal system, try later",
-    "repay_times_limit": "同一天内只可进行一次还款申请",
-    "repayment_bank_is_not_exists": "还款银行不存在",
-    "user_has_not_bank_card": "用户没有绑定银行卡",
-    "order_is_already_cancel": "订单已取消",
+    "repay_times_limit": "One repayment application in one day",
+    "repayment_bank_is_not_exists": "Bank collecting repayment doesn't exist",
+    "user_has_not_bank_card": "User not binding a bank card",
+    "order_is_already_cancel": "Order cancelled",
     "apply_loan_repayment_mode_value": "Lump sum repayment"
   },
   "ko": {
@@ -176,10 +176,10 @@
     "loan_amount_not_equal_now_loan_amount": "Please re-confirm the loan amount",
     "invalid_loan_general_param": "Loan product does not exist",
     "roll_back": "Abnormal system, try later",
-    "repay_times_limit": "同一天内只可进行一次还款申请",
-    "repayment_bank_is_not_exists": "还款银行不存在",
-    "user_has_not_bank_card": "用户没有绑定银行卡",
-    "order_is_already_cancel": "订单已取消",
+    "repay_times_limit": "One repayment application in one day",
+    "repayment_bank_is_not_exists": "Bank collecting repayment doesn't exist",
+    "user_has_not_bank_card": "User not binding a bank card",
+    "order_is_already_cancel": "Order cancelled",
     "apply_loan_repayment_mode_value": "Lump sum repayment"
   }
 }
