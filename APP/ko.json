@@ -302,7 +302,7 @@
 	"note": "Remarks",
 	"repaymentTime": "Repayment time",
 	"resolveTime": "Disposal time",
-	"account_noitce_one": "1. After the loan application is submitted, please transfer the mortgaged assets to the designated contract address within 24 hours.；",
+	"account_noitce_one": "1. After the loan application is submitted, please transfer the mortgaged assets to the designated contract address Within specified time.",
 	"account_noitce_two": "2. Multiple-time loan application without completion of mortgaged assets transfer is determined as malicious operation and the account will be frozen.",
 	"account_noitce_three": "3. Keep an eye on the price fluctuations of your mortgaged assets. If the price is too low, please replenish your position in time or repay and redeem them in advance. Otherwise, the platform will transfer and dispose of the mortgaged assets.",
 	"account_noitce_four": "4. Please repay the loan on time. Otherwise an overdue fee of 9.8 per day will be charged. If overdue for more than 7 days, the platform will transfer and dispose of the mortgaged assets.",
