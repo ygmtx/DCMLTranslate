@@ -9,7 +9,7 @@
     "invalid_password": "请输入符合要求的密码",
     "old_password_mismatch": "原密码错误",
     "retry_later": "请不要频繁获取验证码",
-    "restricted": "请不要频繁操作",
+    "restricted": "操作过于频繁，请稍后再试",
     "missing_field": "请补全信息",
     "user_has_been_authenticated": "已完成身份认证",
     "no_such_record": "记录不存在",
