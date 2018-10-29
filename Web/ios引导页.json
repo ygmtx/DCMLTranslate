@@ -8,10 +8,10 @@
 
   },
   "en": {
-    "step1_txt": "1.进入到设置的界面后，找到“通用”的一栏并点击进入。",
-    "step2_txt": "2.进入到通用的界面后，找到“设备管理”的一栏并点击进入。",
-    "step3_txt": "3.在设备管理的一栏中可以看到“企业级应用”下方有一个企业应用的地址，点击进入",
-    "step4_txt": "4.进入后可以看到信任企业地址，点击进入",
-    "step5_txt": "5.此时弹出界面询问是否在“这台苹果手机上信任这个应用的界面”，点击信任就可以了。"
+    "step1_txt": "1.After entering ‘Setting’, find the ‘General’ column and click to enter。",
+    "step2_txt": "2.After entering ‘General’, find the ‘Device Management’ column and click to enter。",
+    "step3_txt": "3.In ‘Device Management’, you will find the enterprise application under ‘Enterprise Application’, click it to enter",
+    "step4_txt": "4.After entering, you will find the trust enterprise address, click it to enter",
+    "step5_txt": "5.The pop-up will ask if you want to trust the interface of this app on this iPhone. Click on trust and done。"
   }
 }
