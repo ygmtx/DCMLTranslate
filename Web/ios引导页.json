@@ -14,6 +14,6 @@
     "step3_txt": "3.In ‘Device Management’, you will find the enterprise application under ‘Enterprise Application’, click it to enter",
     "step4_txt": "4.After entering, you will find the trust enterprise address, click it to enter",
     "step5_txt": "5.The pop-up will ask if you want to trust the interface of this app on this iPhone. Click on trust and done。"
-    "step6_txt":"6.若无法安装APP，请尝试卸载旧版本APP后再次下载；"
+    "step6_txt":"6.For APP installation failure, please unload the old version and download the new one ；"
   }
 }
