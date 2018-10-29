@@ -6,7 +6,7 @@
     "our_account_three": "交易者",
     "our_account_four_one": "资产持",
     "our_account_four_two": "有者",
-    "our_account_five": "金额机构",
+    "our_account_five": "金融机构",
     "our_account_six": "企业组织"
   },
   "en": {
@@ -16,7 +16,7 @@
     "our_account_three": "Trader",
     "our_account_four_one": "Assets",
     "our_account_four_two": "Holder",
-    "our_account_five": "Amount of institutions",
+    "our_account_five": "Financial institution",
     "our_account_six": "Business organization"
   },
   "ko": {
@@ -26,7 +26,7 @@
     "our_account_three": "Trader",
     "our_account_four_one": "Assets",
     "our_account_four_two": "Holder",
-    "our_account_five": "Amount of institutions",
+    "our_account_five": "Financial institution",
     "our_account_six": "Business organization"
   }
 }
