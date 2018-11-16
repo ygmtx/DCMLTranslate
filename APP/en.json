@@ -580,8 +580,8 @@
 	"sendSuc":"Sent successfully",
 	"psdChangeSuc":"Password reset completed",
 	"loading":"Downloading...",
-	"exclusivePlanOne": "恭喜您已获得专属贷款",
-	"exclusivePlanTwo": "若不能满足？请联系我们",
-	"universalPlanOne": "不能满足您的需求？",
-	"universalPlanTwo": "请联系我们定制专属贷款",
+	"exclusivePlanOne": "Congrats! Your exclusive loan application is approved!",
+	"exclusivePlanTwo": "Not satisfied? Contact us",
+	"universalPlanOne": "Needs not met?",
+	"universalPlanTwo": "Contact us for a customized exclusive loan solution",
 }
