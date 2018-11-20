@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "product_intro_detail_one_title": "数字货币 抵押贷款",
+    "product_intro_detail_one_value_one": "适合所有币圈用户，熊市避免卖币损失",
+    "product_intro_detail_one_value_two": "牛市增加资金杠杆，提高资金周转效率",
+    "product_intro_detail_two_title": "多种托管方式，安全可信赖",
+    "product_intro_detail_two_value_one": "支持ETC、ETH智能合约",
+    "product_intro_detail_two_value_two": "对接LedgerX权威托管",
+    "product_intro_detail_three_title": "无准入门槛，贷款计划可定制",
+    "product_intro_detail_three_value_one": "支持定制额度、期限、利率",
+    "product_intro_detail_three_value_two": "联系客服定制专属贷款计划",
+    "product_intro_detail_four_title": "持币贷款，有币就能借",
+    "product_intro_detail_four_value_one": "ETC、ETH、BTC、BCH、LTC…",
+    "product_intro_detail_four_value_two": "支持多种数字货币抵押贷款",
+    "product_intro_immediate_apply": "立即申请"
+  },
+  "en": {
+    "product_intro_detail_one_title": "数字货币 抵押贷款",
+    "product_intro_detail_one_value_one": "适合所有币圈用户，熊市避免卖币损失",
+    "product_intro_detail_one_value_two": "牛市增加资金杠杆，提高资金周转效率",
+    "product_intro_detail_two_title": "多种托管方式，安全可信赖",
+    "product_intro_detail_two_value_one": "支持ETC、ETH智能合约",
+    "product_intro_detail_two_value_two": "对接LedgerX权威托管",
+    "product_intro_detail_three_title": "无准入门槛，贷款计划可定制",
+    "product_intro_detail_three_value_one": "支持定制额度、期限、利率",
+    "product_intro_detail_three_value_two": "联系客服定制专属贷款计划",
+    "product_intro_detail_four_title": "持币贷款，有币就能借",
+    "product_intro_detail_four_value_one": "ETC、ETH、BTC、BCH、LTC…",
+    "product_intro_detail_four_value_two": "支持多种数字货币抵押贷款",
+    "product_intro_immediate_apply": "立即申请"
+  },
+  "ko": {
+    "product_intro_detail_one_title": "数字货币 抵押贷款",
+    "product_intro_detail_one_value_one": "适合所有币圈用户，熊市避免卖币损失",
+    "product_intro_detail_one_value_two": "牛市增加资金杠杆，提高资金周转效率",
+    "product_intro_detail_two_title": "多种托管方式，安全可信赖",
+    "product_intro_detail_two_value_one": "支持ETC、ETH智能合约",
+    "product_intro_detail_two_value_two": "对接LedgerX权威托管",
+    "product_intro_detail_three_title": "无准入门槛，贷款计划可定制",
+    "product_intro_detail_three_value_one": "支持定制额度、期限、利率",
+    "product_intro_detail_three_value_two": "联系客服定制专属贷款计划",
+    "product_intro_detail_four_title": "持币贷款，有币就能借",
+    "product_intro_detail_four_value_one": "ETC、ETH、BTC、BCH、LTC…",
+    "product_intro_detail_four_value_two": "支持多种数字货币抵押贷款",
+    "product_intro_immediate_apply": "立即申请"
+  }
+}
