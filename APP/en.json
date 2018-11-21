@@ -584,4 +584,16 @@
 	"exclusivePlanTwo": "Not satisfied? Contact us",
 	"universalPlanOne": "Needs not met?",
 	"universalPlanTwo": "Contact us for a customized exclusive loan solution",
+        "chooseMethod":"选择方案",
+	"prompChoose": "请根据您的需求选择贷款方案",
+	"ETHETC": "ETH、ETC抵押贷款",
+	"BTCLogo":"BTC抵押贷款",
+	"BTCLogo1":"美国商务委认证的LedgerX提供托管支持",
+	"EOSBCHLTC":"EOS、BCH、LTC…",
+	"EOSBCHLTC1":"更多币种抵押贷款",
+	"EOSBCHLTC2":"请联系客服定制专属方案",
+	"introduction": "产品简介",
+	"customerTitle": "定制专属贷款计划",
+	"customerNa":"客服小娜",
+	"customerLabel":"我是您的专属客服"
 }
