@@ -1,0 +1,44 @@
+  {
+    "zh": {
+      "home_title": "数字货币抵押贷款-基于智能合约打造的数字资产抵押贷款平台",
+      "btcTitle":"BTC抵押贷款",
+      "Brand":"全新模式上线",
+      "btcBtn":"立即贷款",
+      "Trusteeship":"LedgerX托管支持  抵押BTC更放心",
+      "TrusteeshipDetail1":"LedgerX是由美国CFTC认证的衍生品交易所，同时拥有SEF和DCO资质",
+      "TrusteeshipDetail2":"您抵押的BTC资产将由LedgerX提供托管技术支持和监管服务，抵押期间保证资产安全",
+      "TrusteeshipBtn":"托管详情",
+      "Technology":"HD冷钱包技术   抵押资产更便捷",
+      "TechnologyDetail":"每次抵押贷款，资产都托管于完全独立的钱包中，保障资产安全、极速放款退币、实时查询数字资产转账记录",
+      "Money":"最高500万，最长90天，贷款计划随心配",
+      "MoneyDetail":"BTC抵押资产支持最高贷款金额500万，最长贷款天数90天，范围内可自定义贷款计划，最大限度满足您的贷款需求"
+    },
+    "en": {
+      "home_title": "Home",
+      "btcTitle":"BTC抵押贷款",
+      "Brand":"全新模式上线",
+      "btcBtn":"立即贷款",
+      "Trusteeship":"LedgerX托管支持  抵押BTC更放心",
+      "TrusteeshipDetail1":"LedgerX是由美国CFTC认证的衍生品交易所，同时拥有SEF和DCO资质",
+      "TrusteeshipDetail2":"您抵押的BTC资产将由LedgerX提供托管技术支持和监管服务，抵押期间保证资产安全",
+      "TrusteeshipBtn":"托管详情",
+      "Technology":"HD冷钱包技术   抵押资产更便捷",
+      "TechnologyDetail":"每次抵押贷款，资产都托管于完全独立的钱包中，保障资产安全、极速放款退币、实时查询数字资产转账记录",
+      "Money":"最高500万，最长90天，贷款计划随心配",
+      "MoneyDetail":"BTC抵押资产支持最高贷款金额500万，最长贷款天数90天，范围内可自定义贷款计划，最大限度满足您的贷款需求"
+    },
+    "ko": {
+      "home_title": "Home",
+      "btcTitle":"BTC抵押贷款",
+      "Brand":"全新模式上线",
+      "btcBtn":"立即贷款",
+      "Trusteeship":"LedgerX托管支持  抵押BTC更放心",
+      "TrusteeshipDetail1":"LedgerX是由美国CFTC认证的衍生品交易所，同时拥有SEF和DCO资质",
+      "TrusteeshipDetail2":"您抵押的BTC资产将由LedgerX提供托管技术支持和监管服务，抵押期间保证资产安全",
+      "TrusteeshipBtn":"托管详情",
+      "Technology":"HD冷钱包技术   抵押资产更便捷",
+      "TechnologyDetail":"每次抵押贷款，资产都托管于完全独立的钱包中，保障资产安全、极速放款退币、实时查询数字资产转账记录",
+      "Money":"最高500万，最长90天，贷款计划随心配",
+      "MoneyDetail":"BTC抵押资产支持最高贷款金额500万，最长贷款天数90天，范围内可自定义贷款计划，最大限度满足您的贷款需求"
+    }
+  }
