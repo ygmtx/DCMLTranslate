@@ -595,5 +595,18 @@
 	"introduction": "Product introduction",
 	"customerTitle": "Customize exclusive loan plan",
 	"customerNa":"CS Xiaona",
-	"customerLabel":"I'm your dedicated CS"
+	"customerLabel":"I'm your dedicated CS",
+	"btcAddress":"BTC地址",
+	"add_btc_refund_address":"添加BTC退币地址",
+	"add_btcAddress":"添加BTC地址",
+	"edit_btcAddress":"编辑BTC地址",
+	"input_btcAddress":"请输入BTC退币地址",
+	"input_right_btcAddress":"请输入正确的BTC退币地址",
+	"btcAddress_dialog_title":"确认修改BTC地址信息吗？",
+	"btcAddress_dialog_message":"请确认地址信息无误，否则将导致转账失败等问题",	
+	"btcAddress_notice":{
+		"btcAddress_notice_one":"* 请确保添加正确的BTC退币地址，建议使用以1、3或BC开头的地址",
+		"btcAddress_notice_two":"* 错误或无效的地址会导致您接收不到退币，我们无法撤回或取消转账操作，交易在区块确认成功后，会被认定为转账成功，您需要承担相应损失",
+		"btcAddress_notice_three":"* 如果填写的是交易所的充币地址，请确保此地址不会经常改变"
+	}
 }
