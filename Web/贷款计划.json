@@ -18,7 +18,10 @@
     "plan_detail_tips_contract_deploy_fee": "合约部署费：",
     "strong_leveling_line_intro": "当您的抵押资产价格低于强平线时，平台将立刻进行资产处置",
     "predisposing_line_intro": "当您的抵押资产价格低于预处置线时，需在24小时内补仓至安全线，如果24小时后价格依然低于预处置线，则会转移并处置抵押资产",
-    "current_price_intro": "根据Bitfinex、币安、okex、火币24小时ETH交易量加权平均值计算出来的实时价格"
+    "current_price_intro": "根据Bitfinex、币安、okex、火币24小时ETH交易量加权平均值计算出来的实时价格",
+    "plan_detail_warn_noitce": "低于预处置线，请于{date}前补仓，以免抵押资产被处置",
+    "plan_detail_contract_protocol": "查看《借款协议》",
+    "plan_detail_third_party_manage_fee": "第三方管理费"
   },
   "en": {
     "plan_detail_current_fee": "ETH Current market price：",
@@ -39,7 +42,10 @@
     "plan_detail_tips_contract_deploy_fee": "Contract deployment fee：",
     "strong_leveling_line_intro": "When the price of your mortgaged assets is below the forced liquidation floor, the platform will immediately dispose of such assets;",
     "predisposing_line_intro": "When the price of your mortgaged assets is below the pre-disposal line, you need to replenish the position until back to the safety floor within 24 hours. If the price is still below the pre-disposal line after 24 hours, the mortgaged assets will be transferred and disposed of.",
-    "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi "
+    "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi ",
+    "plan_detail_warn_noitce": "Below the pre-disposal line, please replenish your position before {date} to prevent the disposal of your mortgaged assets ",
+    "plan_detail_contract_protocol": "View this loan Agreement",
+    "plan_detail_third_party_manage_fee": "第三方管理费"
   },
   "ko": {
     "plan_detail_current_fee": "ETH Current market price：",
@@ -60,6 +66,9 @@
     "plan_detail_tips_contract_deploy_fee": "Contract deployment fee：",
     "strong_leveling_line_intro": "When the price of your mortgaged assets is below the forced liquidation floor, the platform will immediately dispose of such assets;",
     "predisposing_line_intro": "When the price of your mortgaged assets is below the pre-disposal line, you need to replenish the position until back to the safety floor within 24 hours. If the price is still below the pre-disposal line after 24 hours, the mortgaged assets will be transferred and disposed of.",
-    "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi "
+    "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi ",
+    "plan_detail_warn_noitce": "Below the pre-disposal line, please replenish your position before {date} to prevent the disposal of your mortgaged assets ",
+    "plan_detail_contract_protocol": "View this loan Agreement",
+    "plan_detail_third_party_manage_fee": "第三方管理费"
   }
 }

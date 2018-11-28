@@ -4,21 +4,51 @@
       "header_repayment_manage": "还款管理",
       "hearer_help_center": "帮助中心",
       "header_download_app": "下载APP",
-      "header_login": "登录"
+      "header_login": "登录",
+      "header_register": "注册",
+      "personal_center_record": "贷款记录",
+      "personal_center_safe": "账户安全",
+      "personal_center_mode": "收款方式",
+      "personal_center_message_center": "消息中心",
+      "personal_center_login_out": "退出登录",
+      "personal_center_cc_loan": "Coin&Cash APP下载",
+      "personal_center_ios_download": "IOS版下载",
+      "personal_center_android_download": "Android版下载",
+      "personal_center_push_msg": "您有新消息啦，请查收"
     },
     "en": {
       "header_want_loan": "I want a loan",
       "header_repayment_manage": "Repayment management",
       "hearer_help_center": "Help Center",
       "header_download_app": "Download APP",
-      "header_login": "Login"
+      "header_login": "Login",
+      "header_register": "Register",
+      "personal_center_record": "Loan history",
+      "personal_center_safe": "Account security",
+      "personal_center_mode": "Payment method",
+      "personal_center_message_center": "Message Center",
+      "personal_center_login_out": "LoginOut",
+      "personal_center_cc_loan": "Coin&Cash APP Download",
+      "personal_center_ios_download": "IOS Download",
+      "personal_center_android_download": "Android Download",
+      "personal_center_push_msg": "您有新消息啦，请查收"
     },
     "ko": {
       "header_want_loan": "I want a loan",
       "header_repayment_manage": "Repayment management",
       "hearer_help_center": "Help Center",
       "header_download_app": "Download APP",
-      "header_login": "Login"
+      "header_login": "Login",
+      "header_register": "Register",
+      "personal_center_record": "Loan history",
+      "personal_center_safe": "Account security",
+      "personal_center_mode": "Payment method",
+      "personal_center_message_center": "Message Center",
+      "personal_center_login_out": "LoginOut",
+      "personal_center_cc_loan": "Coin&Cash APP Download",
+      "personal_center_ios_download": "IOS Download",
+      "personal_center_android_download": "Android Download",
+      "personal_center_push_msg": "您有新消息啦，请查收"
     }
   }
   

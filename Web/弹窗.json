@@ -12,7 +12,11 @@
     "model_container_cancel": "取消",
     "model_container_confirm": "确定",
     "model_container_to_register": "去注册",
-    "model_container_to_login": "直接登录"
+    "model_container_to_login": "直接登录",
+    "confirm_cancel_loan_failed_title": "操作失败",
+    "confirm_cancel_loan_failed_value": "订单已开始放款，请联系客服取消订单",
+    "btc_address_form_tip_box_title": "确认修改BTC地址信息吗？",
+    "btc_address_form_tip_box_value": "请确认地址信息无误，否则将导致转账失败等问题"
   },
   "en": {
     "hidden_container_title": "Loan agreement",
@@ -27,7 +31,11 @@
     "model_container_cancel": "Cancel",
     "model_container_confirm": "Determine",
     "model_container_to_register": "Go to register",
-    "model_container_to_login": "Direct Login"
+    "model_container_to_login": "Direct Login",
+    "confirm_cancel_loan_failed_title": "Operation failed",
+    "confirm_cancel_loan_failed_value": "Start to grant the loan upon the order, contact customer service to cancel the order",
+    "btc_address_form_tip_box_title": "确认修改BTC地址信息吗？",
+    "btc_address_form_tip_box_value": "请确认地址信息无误，否则将导致转账失败等问题"
   },
 
   "ko": {
@@ -43,6 +51,10 @@
     "model_container_cancel": "Cancel",
     "model_container_confirm": "Determine",
     "model_container_to_register": "Go to register",
-    "model_container_to_login": "Direct Login"
+    "model_container_to_login": "Direct Login",
+    "confirm_cancel_loan_failed_title": "Operation failed",
+    "confirm_cancel_loan_failed_value": "Start to grant the loan upon the order, contact customer service to cancel the order",
+    "btc_address_form_tip_box_title": "确认修改BTC地址信息吗？",
+    "btc_address_form_tip_box_value": "请确认地址信息无误，否则将导致转账失败等问题"
   }
 }
