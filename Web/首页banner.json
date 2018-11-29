@@ -8,15 +8,16 @@
   },
   "en": {
     "top_banner_title": "Digital currency mortgage loan",
-    "top_banner_support_cion": "支持ETH、ETC，智能合约更可靠",
-    "top_banner_support_platform": "更多币种定制联系客服",
+    "top_banner_support_cion": "Support ETH, ETC, smarter contracts are more reliable",
+    "top_banner_support_platform": "More currency types customization contact customer service",
     "top_banner_safety": "Safe, fast, reliable",
     "top_banner_loan_btn": "Immediate loan"
   },
   "ko": {
+    "en": {
     "top_banner_title": "Digital currency mortgage loan",
-    "top_banner_support_cion": "支持ETH、ETC，智能合约更可靠",
-    "top_banner_support_platform": "更多币种定制联系客服",
+    "top_banner_support_cion": "Support ETH, ETC, smarter contracts are more reliable",
+    "top_banner_support_platform": "More currency types customization contact customer service",
     "top_banner_safety": "Safe, fast, reliable",
     "top_banner_loan_btn": "Immediate loan"
   }
