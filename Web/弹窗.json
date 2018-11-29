@@ -34,8 +34,8 @@
     "model_container_to_login": "Direct Login",
     "confirm_cancel_loan_failed_title": "Operation failed",
     "confirm_cancel_loan_failed_value": "Start to grant the loan upon the order, contact customer service to cancel the order",
-    "btc_address_form_tip_box_title": "确认修改BTC地址信息吗？",
-    "btc_address_form_tip_box_value": "请确认地址信息无误，否则将导致转账失败等问题"
+    "btc_address_form_tip_box_title": "Confirm change of BTC address information?",
+    "btc_address_form_tip_box_value": "Please confirm the accuracy of address information; otherwise transfer failure will occur"
   },
 
   "ko": {
@@ -54,7 +54,7 @@
     "model_container_to_login": "Direct Login",
     "confirm_cancel_loan_failed_title": "Operation failed",
     "confirm_cancel_loan_failed_value": "Start to grant the loan upon the order, contact customer service to cancel the order",
-    "btc_address_form_tip_box_title": "确认修改BTC地址信息吗？",
-    "btc_address_form_tip_box_value": "请确认地址信息无误，否则将导致转账失败等问题"
+    "btc_address_form_tip_box_title": "Confirm change of BTC address information?",
+    "btc_address_form_tip_box_value": "Please confirm the accuracy of address information; otherwise transfer failure will occur"
   }
 }
