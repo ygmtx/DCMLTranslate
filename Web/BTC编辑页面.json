@@ -5,13 +5,13 @@
     "btc_address_form_address": "BTC退币地址"
   },
   "en": {
-    "input_validate_empty_address": "请输入正确的BTC地址",
-    "btc_address_form_confirm": "确定",
-    "btc_address_form_address": "BTC退币地址"
+    "input_validate_empty_address": "Please enter the correct BTC address",
+    "btc_address_form_confirm": "Confirm",
+    "btc_address_form_address": "BTC refunding address"
   },
   "ko": {
-    "input_validate_empty_address": "请输入正确的BTC地址",
-    "btc_address_form_confirm": "确定",
-    "btc_address_form_address": "BTC退币地址"
+    "input_validate_empty_address": "Please enter the correct BTC address",
+    "btc_address_form_confirm": "Confirm",
+    "btc_address_form_address": "BTC refunding address"
   }
 }
