@@ -45,7 +45,7 @@
     "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi ",
     "plan_detail_warn_noitce": "Below the pre-disposal line, please replenish your position before {date} to prevent the disposal of your mortgaged assets ",
     "plan_detail_contract_protocol": "View this loan Agreement",
-    "plan_detail_third_party_manage_fee": "第三方管理费"
+    "plan_detail_third_party_manage_fee": "Third party management fee"
   },
   "ko": {
     "plan_detail_current_fee": "ETH Current market price：",
@@ -69,6 +69,6 @@
     "current_price_intro": "Real-time price based on weighted average of 24-hour ETH trading volume on Bitfinex, Binance, okex, and Huobi ",
     "plan_detail_warn_noitce": "Below the pre-disposal line, please replenish your position before {date} to prevent the disposal of your mortgaged assets ",
     "plan_detail_contract_protocol": "View this loan Agreement",
-    "plan_detail_third_party_manage_fee": "第三方管理费"
+    "plan_detail_third_party_manage_fee": "Third party management fee"
   }
 }
