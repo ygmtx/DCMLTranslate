@@ -8,19 +8,19 @@
     "btc_address_add_date": "添加时间："
   },
   "en": {
-    "btc_address_add_btc_address": "添加BTC退币地址",
-    "btc_address_title": "BTC退币地址",
-    "btc_address_copy": "复制",
-    "btc_address_copied": "已复制",
-    "btc_address_edit": "编辑",
-    "btc_address_add_date": "添加时间："
+    "btc_address_add_btc_address": "Add BTC refunding address",
+    "btc_address_title": "BTC refunding address",
+    "btc_address_copy": "Copy",
+    "btc_address_copied": "Copied",
+    "btc_address_edit": "Edit",
+    "btc_address_add_date": "Add time："
   },
   "ko": {
-    "btc_address_add_btc_address": "添加BTC退币地址",
-    "btc_address_title": "BTC退币地址",
-    "btc_address_copy": "复制",
-    "btc_address_copied": "已复制",
-    "btc_address_edit": "编辑",
-    "btc_address_add_date": "添加时间："
+    "btc_address_add_btc_address": "Add BTC refunding address",
+    "btc_address_title": "BTC refunding address",
+    "btc_address_copy": "Copy",
+    "btc_address_copied": "Copied",
+    "btc_address_edit": "Edit",
+    "btc_address_add_date": "Add time："
   }
 }
