@@ -5,13 +5,13 @@
     "btc_noitce_loan_three": "如果填写的是交易所的充币地址，请确保此地址不会经常改变"
   },
   "en": {
-    "btc_noitce_loan_one": "请确保添加正确的退币收款地址，建议使用以1、3或BC开头的地址",
-    "btc_noitce_loan_two": "错误或无效的地址会导致您接收不到退币，我们无法撤回或取消转账操作，交易在区块确认成功后，会被认定为转账成功，您需要承担相应损失",
-    "btc_noitce_loan_three": "如果填写的是交易所的充币地址，请确保此地址不会经常改变"
+    "btc_noitce_loan_one": "Please ensure the addition of a correct refunding address; suggest to start with 1, 3 or BC for the address",
+    "btc_noitce_loan_two": "Incorrect or invalid address will result in refunding failure and we are unable to recall or cancel the transfer; any transfer will be verified upon block confirmation and any liability incurred should be born by the user",
+    "btc_noitce_loan_three": "If it's a deposit address of an exchange, please ensure no constant address change"
   },
   "ko": {
-    "btc_noitce_loan_one": "请确保添加正确的退币收款地址，建议使用以1、3或BC开头的地址",
-    "btc_noitce_loan_two": "错误或无效的地址会导致您接收不到退币，我们无法撤回或取消转账操作，交易在区块确认成功后，会被认定为转账成功，您需要承担相应损失",
-    "btc_noitce_loan_three": "如果填写的是交易所的充币地址，请确保此地址不会经常改变"
+    "btc_noitce_loan_one": "Please ensure the addition of a correct refunding address; suggest to start with 1, 3 or BC for the address",
+    "btc_noitce_loan_two": "Incorrect or invalid address will result in refunding failure and we are unable to recall or cancel the transfer; any transfer will be verified upon block confirmation and any liability incurred should be born by the user",
+    "btc_noitce_loan_three": "If it's a deposit address of an exchange, please ensure no constant address change"
   }
 }
