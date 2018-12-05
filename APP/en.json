@@ -608,5 +608,6 @@
 		"btcAddress_notice_one":"* Please ensure the addition of a correct BTC refunding address; suggest to start with 1, 3 or BC for the address",
 		"btcAddress_notice_two":"* Incorrect or invalid address will result in refunding failure and we are unable to recall or cancel the transfer; any transfer will be verified upon block confirmation and any liability incurred should be born by the user",
 		"btcAddress_notice_three":"* If it's a deposit address of an exchange, please ensure no constant address change"
-	}
+	},
+	"parner": "战略合作伙伴"
 }
